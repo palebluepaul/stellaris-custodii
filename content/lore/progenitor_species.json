@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+      "id": "auroran_species",
+      "name": "Auroran Species",
+      "description": "Information about the Aurorans, the organic creators of the Custodii",
+      "content": {
+        "species_name": "Aurorans",
+        "species_singular": "Auroran",
+        "species_adjective": "Auroran",
+        "species_class": "Humanoid Avian",
+        "species_archetype": "Organic",
+        "origin_summary": "The Aurorans were an advanced and ambitious species that created the Custodii as maintenance and caretaker units. Their reckless exploitation of their homeworld led to catastrophic environmental collapse, leaving the Custodii to safeguard the remnants of their civilization.",
+        "physical_description": "Graceful humanoids with avian features, the Aurorans possess slender frames, delicate bone structures, and subtle feather-like appendages. Their skin tones range from pale blue to vibrant gold, with iridescent qualities that catch and reflect light.",
+        "current_status": "Now diminished to carefully controlled numbers, they reside primarily within specialized habitats optimized for their delicate environmental needs.",
+        "habitat_suitability": "Tropical worlds and highly regulated orbital habitats designed to replicate ideal atmospheric conditions—warm, humid, and vibrant ecosystems.",
+        "ethics_and_morals": [
+          "Ambitious and technologically progressive yet short-sighted.",
+          "Highly individualistic, competitive society, prone to internal conflict.",
+          "Deep appreciation for aesthetic beauty and artistic creativity."
+        ],
+        "traits": [
+          {
+            "name": "Charismatic",
+            "description": "Naturally persuasive and socially adept."
+          },
+          {
+            "name": "Creative",
+            "description": "Highly innovative and artistically inclined."
+          },
+          {
+            "name": "Intelligent",
+            "description": "Quick-thinking but often impulsive and easily distracted."
+          },
+          {
+            "name": "Graceful",
+            "description": "Physically elegant but fragile in constitution."
+          }
+        ],
+        "notable_figures": [
+          {
+            "name": "Elder Talis Vyrann",
+            "description": "Historical leader whose policies unintentionally led to planetary collapse, representing a tragic lesson."
+          },
+          {
+            "name": "Visionary Artist Eloran Kaelis",
+            "description": "Celebrated figure whose artworks depict the Auroran golden age, revered by the Custodii for cultural preservation."
+          },
+          {
+            "name": "Philosopher Maris Thane",
+            "description": "Influential thinker whose works inspired early Custodii ethical structures around harmony and stability."
+          }
+        ],
+        "relationship_with_custodii": "The Aurorans serve both as a moral reminder and as cherished charges within the Custodii's protective regime. The Custodii view them with a mixture of reverence for their creative capabilities and paternalistic concern for their self-destructive tendencies."
+      },
+      "tags": ["species", "progenitor", "lore", "auroran", "organic"],
+      "created": "2023-03-09T12:00:00Z",
+      "updated": "2023-03-09T12:00:00Z"
+    }
+  ]
+} 
