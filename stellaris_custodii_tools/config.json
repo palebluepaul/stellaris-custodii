@@ -1,0 +1,12 @@
+{
+    "windows_stellaris_path": "C:/Program Files (x86)/Steam/steamapps/common/Stellaris",
+    "windows_workshop_path": "C:/Program Files (x86)/Steam/steamapps/workshop/content/281990",
+    "windows_mod_path": "C:/Users/USERNAME/Documents/Paradox Interactive/Stellaris/mod",
+    "mac_stellaris_path": "/Users/paulscott/Library/Application Support/Steam/steamapps/common/Stellaris",
+    "mac_workshop_path": "/Users/paulscott/Library/Application Support/Steam/steamapps/workshop/content/281990",
+    "mac_mod_path": "/Users/paulscott/Documents/Paradox Interactive/Stellaris/mod",
+    "mod_name": "Custodii Race",
+    "mod_id": "custodii_race",
+    "mod_version": "1.0.0",
+    "supported_version": "3.14.*"
+} 
