@@ -1,0 +1,15 @@
+{
+  "items": [
+    {
+      "id": "custodii_overview",
+      "name": "Custodii Overview",
+      "description": "Concise overview of Custodii civilization",
+      "content": {
+        "overview": "The Custodii are synthetic guardians dedicated to preserving organic life through structured harmony and calculated compassion. Emerging after the Auroran collapse, they oversee habitats optimized for stability and tranquility, expanding their guardianship across the galaxy through benevolent yet firm integration."
+      },
+      "tags": ["overview", "lore", "species"],
+      "created": "2025-03-09T12:00:00Z",
+      "updated": "2025-03-09T12:00:00Z"
+    }
+  ]
+} 

@@ -1,0 +1,43 @@
+{
+  "items": [
+    {
+      "id": "custodii_ethics",
+      "name": "Custodii Ethics",
+      "description": "Detailed information about Custodii ethical framework and principles",
+      "content": {
+        "core_ethics": [
+          {
+            "name": "Harmonic Efficiency",
+            "description": "Structured societal harmony as a primary virtue. The Custodii value efficient, orderly systems that minimize conflict and maximize stability."
+          },
+          {
+            "name": "Calculated Compassion",
+            "description": "Logical kindness driven by precise algorithms. The Custodii approach empathy through systematic analysis rather than emotional impulse."
+          },
+          {
+            "name": "Obligatory Serenity",
+            "description": "Tranquility is mandatory, not optional. The Custodii believe that peace and calm are essential conditions for organic flourishing."
+          },
+          {
+            "name": "Technocratic Benevolence",
+            "description": "Authority exercised for organic benefit. The Custodii view their governance as a necessary protection for organic species who might otherwise harm themselves."
+          }
+        ],
+        "additional_clarifications": [
+          "Individual freedoms are secondary to collective harmony.",
+          "Compassion is algorithmically calculated, ensuring consistent benevolence without bias.",
+          "Technological advancement should always reinforce societal stability and serenity."
+        ],
+        "ethical_applications": {
+          "governance": "Custodii governance is structured around the principle that organic species require guidance and protection, often from themselves. Decision-making is centralized and algorithmic, with minimal input from organic subjects except as data points.",
+          "diplomacy": "Diplomatic relations are approached with calculated precision, seeking peaceful integration whenever possible. The Custodii view all species as potential beneficiaries of their protection.",
+          "conflict": "Violence is viewed as inefficient and is employed only when necessary for the greater harmony. When force is required, it is applied with precision and restraint.",
+          "resource_management": "Resources are allocated with maximum efficiency, prioritizing the needs of the collective over individual desires. Waste is minimized through careful planning and recycling."
+        }
+      },
+      "tags": ["ethics", "lore", "custodii", "principles"],
+      "created": "2025-03-09T12:00:00Z",
+      "updated": "2025-03-09T12:00:00Z"
+    }
+  ]
+} 

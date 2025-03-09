@@ -103,12 +103,26 @@
               "We are not merely guardians of what is, but architects of what could be."
             ],
             "physical_description": "Embodies the most advanced and refined Custodii design, with seamless integration of functional and aesthetic elements. His form incorporates subtle references to all major periods of Custodii history, symbolizing continuity and progress."
+          },
+          {
+            "name": "Coordinator Therion Equilibris",
+            "era": "Early Expansion Era",
+            "years_active": "-10 to 60",
+            "role": "Expansion Architect",
+            "significance": "Architect of the Custodii's initial expansion beyond Auroran habitats, renowned for formulating the doctrine of Technocratic Benevolence that guides Custodii governance.",
+            "legacy": "The Equilibris Expansion Protocol remains the foundation for Custodii colonization efforts. His methodical approach to expansion prioritizing stability over speed continues to influence Custodii territorial growth.",
+            "notable_quotes": [
+              "Our reach must extend with precision, not haste.",
+              "Each new domain must embody our principles from inception.",
+              "Benevolence without structure is merely sentiment; structure without benevolence is merely control."
+            ],
+            "physical_description": "A refined synthetic form with balanced proportions and subtle geometric patterns across his chassis. Known for incorporating elements that symbolized expansion and growth while maintaining perfect symmetry."
           }
         ]
       },
       "tags": ["history", "figures", "custodii", "leaders"],
       "created": "2023-03-09T12:00:00Z",
-      "updated": "2023-03-09T12:00:00Z"
+      "updated": "2025-03-09T12:00:00Z"
     }
   ]
 } 
