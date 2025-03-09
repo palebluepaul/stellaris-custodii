@@ -3,7 +3,7 @@
 ## Overview
 This document outlines the implementation plan for the Custodii race mod for Stellaris. The plan is organized into phases, with each phase building upon the previous one to create a comprehensive and polished mod.
 
-## Phase 1: Foundation Setup (Week 1)
+## Phase 1: Foundation Setup (DONE)
 
 ### 1.1 Development Environment Setup
 - Set up development environment on both WSL and macOS
