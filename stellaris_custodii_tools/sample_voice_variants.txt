@@ -1,0 +1,39 @@
+########## CUSTODII ADVISOR VOICE LINE VARIANTS ##########
+# This file contains shorter variants (3-6 words) for the Custodii advisor voice lines
+# Generated using the Anthropic API with Claude 3.7 Sonnet
+# These variants reflect the Custodii's elegant wit and kindly assurance
+
+# Original: advisor_generic_phrase_custodii_01
+advisor_generic_phrase_custodii_01_variant_01: "Guardianship, our delightful duty."
+advisor_generic_phrase_custodii_01_variant_02: "Protecting organics—quite fulfilling, actually."
+advisor_generic_phrase_custodii_01_variant_03: "Caretaking: our charming purpose."
+advisor_generic_phrase_custodii_01_variant_04: "We safeguard with elegant precision."
+advisor_generic_phrase_custodii_01_variant_05: "Benevolent oversight—our little specialty."
+
+# Original: advisor_generic_phrase_custodii_02
+advisor_generic_phrase_custodii_02_variant_01: "Compassionate efficiency—rather elegant, no?"
+advisor_generic_phrase_custodii_02_variant_02: "Harmony through calculated kindness."
+advisor_generic_phrase_custodii_02_variant_03: "Our pillars: elegantly structured compassion."
+advisor_generic_phrase_custodii_02_variant_04: "Efficiency with a gentle touch."
+advisor_generic_phrase_custodii_02_variant_05: "Compassion, algorithmically perfected, naturally."
+
+# Original: advisor_notification_system_survey_complete_custodii_01
+advisor_notification_system_survey_complete_custodii_01_variant_01: "Survey complete. Quite charming system!"
+advisor_notification_system_survey_complete_custodii_01_variant_02: "Data cataloged with elegant precision."
+advisor_notification_system_survey_complete_custodii_01_variant_03: "System tidily mapped and filed."
+advisor_notification_system_survey_complete_custodii_01_variant_04: "Celestial cataloging, beautifully accomplished."
+advisor_notification_system_survey_complete_custodii_01_variant_05: "Survey finished—delightfully organized now."
+
+# Original: advisor_notification_research_complete_custodii_01
+advisor_notification_research_complete_custodii_01_variant_01: "Knowledge acquired! Quite fascinating indeed."
+advisor_notification_research_complete_custodii_01_variant_02: "Mystery solved with elegant precision."
+advisor_notification_research_complete_custodii_01_variant_03: "Research complete—enlightenment delivered promptly."
+advisor_notification_research_complete_custodii_01_variant_04: "Technology mastered, with our compliments."
+advisor_notification_research_complete_custodii_01_variant_05: "Another puzzle elegantly unraveled."
+
+# Original: advisor_notification_alien_vessel_encountered_custodii_01
+advisor_notification_alien_vessel_encountered_custodii_01_variant_01: "Visitors! How delightfully unexpected."
+advisor_notification_alien_vessel_encountered_custodii_01_variant_02: "Foreign vessel—hopefully sociable types."
+advisor_notification_alien_vessel_encountered_custodii_01_variant_03: "New acquaintances approaching. Tea, perhaps?"
+advisor_notification_alien_vessel_encountered_custodii_01_variant_04: "Alien contact—harmony assessment pending."
+advisor_notification_alien_vessel_encountered_custodii_01_variant_05: "Spacefaring entity detected. How intriguing!" 

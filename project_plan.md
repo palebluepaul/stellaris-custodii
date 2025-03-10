@@ -26,7 +26,7 @@ This document outlines the implementation plan for the Custodii race mod for Ste
 
 ## Phase 2: Core Race Definition (Week 2)
 
-### 2.1 Name Lists
+### 2.1 Name Lists (DONE)
 - Implement Custodii name lists for leaders, ships, fleets, and planets
 - Create localization entries for name lists
 - Test name list integration in-game

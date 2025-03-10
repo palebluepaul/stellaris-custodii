@@ -1,0 +1,19 @@
+########## CUSTODII ADVISOR VOICE LINES ##########
+# This file contains sample voice lines for the Custodii advisor
+# The lines reflect the Custodii's elegant wit, kindly assurance, and benevolent guardianship philosophy
+
+########## GENERIC PHRASES (RANDOM ADVISOR COMMENTS) ##########
+advisor_generic_phrase_custodii_01: "Our purpose is the structured, benevolent guardianship of organic life. It's both our duty and, dare we say, our delight."
+advisor_generic_phrase_custodii_02: "Harmonic efficiency and calculated compassion—the pillars upon which we've built our society. Rather elegant, wouldn't you agree?"
+
+########## SCIENCE SHIP NOTIFICATIONS ##########
+# System survey complete
+advisor_notification_system_survey_complete_custodii_01: "System survey complete. All data has been cataloged with precise elegance. Quite a tidy little system you've found."
+
+########## RESEARCH AND PROJECTS ##########
+# Research complete
+advisor_notification_research_complete_custodii_01: "Technological acquisition successful. Knowledge integrated with elegant precision. Another mystery neatly unraveled."
+
+########## DIPLOMACY AND FIRST CONTACT ##########
+# First contact
+advisor_notification_alien_vessel_encountered_custodii_01: "Foreign spacefaring unit encountered. Assessing potential for harmonious interaction. We do hope they're the sociable type." 

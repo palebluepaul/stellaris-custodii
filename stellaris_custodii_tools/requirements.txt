@@ -1,1 +1,3 @@
 chardet 
+anthropic>=0.18.0 
+elevenlabs>=0.2.26 

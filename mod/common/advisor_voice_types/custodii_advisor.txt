@@ -1,0 +1,94 @@
+advisor_voice_type = {
+    name = "advisor_voice_custodii"
+    
+    sound_mappings = {
+        # Generic phrases
+        advisor_generic_phrase = advisor_generic_phrase_custodii
+        
+        # Science ship notifications
+        advisor_notification_system_survey_complete = advisor_notification_system_survey_complete_custodii
+        advisor_notification_science_ship_destroyed = advisor_notification_science_ship_destroyed_custodii
+        advisor_notification_science_ship_under_attack = advisor_notification_science_ship_under_attack_custodii
+        
+        # Construction ship notifications
+        advisor_notification_construction_complete = advisor_notification_construction_complete_custodii
+        advisor_notification_construction_ship_destroyed = advisor_notification_construction_ship_destroyed_custodii
+        advisor_notification_construction_ship_under_attack = advisor_notification_construction_ship_under_attack_custodii
+        
+        # Colony ship notifications
+        advisor_notification_colony_established = advisor_notification_colony_established_custodii
+        advisor_notification_colony_ship_under_attack = advisor_notification_colony_ship_under_attack_custodii
+        advisor_notification_colony_ship_destroyed = advisor_notification_colony_ship_destroyed_custodii
+        
+        # Spaceport notifications
+        advisor_notification_spaceport_lost = advisor_notification_spaceport_lost_custodii
+        advisor_notification_spaceport_under_attack = advisor_notification_spaceport_under_attack_custodii
+        
+        # Invasion notifications
+        advisor_notification_enemy_invasion_defeated = advisor_notification_enemy_invasion_defeated_custodii
+        advisor_notification_invasion_enemy_won = advisor_notification_invasion_enemy_won_custodii
+        advisor_notification_invasion_failed = advisor_notification_invasion_failed_custodii
+        advisor_notification_invasion_progress = advisor_notification_invasion_progress_custodii
+        advisor_notification_invasion_success = advisor_notification_invasion_success_custodii
+        
+        # Station notifications
+        advisor_notification_military_station_lost = advisor_notification_military_station_lost_custodii
+        advisor_notification_mining_station_lost = advisor_notification_mining_station_lost_custodii
+        advisor_notification_research_station_lost = advisor_notification_research_station_lost_custodii
+        advisor_notification_observation_post_lost = advisor_notification_observation_post_lost_custodii
+        advisor_notification_frontier_outpost_lost = advisor_notification_frontier_outpost_lost_custodii
+        advisor_notification_wormhole_station_lost = advisor_notification_wormhole_station_lost_custodii
+        advisor_notification_station_under_attack = advisor_notification_station_under_attack_custodii
+        
+        # Fleet and combat notifications
+        advisor_notification_hostile_fleet_detected = advisor_notification_hostile_fleet_detected_custodii
+        advisor_notification_hostile_fleet_engaged = advisor_notification_hostile_fleet_engaged_custodii
+        advisor_notification_fleet_destroyed = advisor_notification_fleet_destroyed_custodii
+        advisor_notification_evade_hostile_fleet = advisor_notification_evade_hostile_fleet_custodii
+        advisor_notification_alien_spaceport_engaged = advisor_notification_alien_spaceport_engaged_custodii
+        advisor_notification_hostile_station_engaged = advisor_notification_hostile_station_engaged_custodii
+        advisor_notification_fleet_detected = advisor_notification_fleet_detected_custodii
+        
+        # Planet notifications
+        advisor_notification_planet_in_revolt = advisor_notification_planet_in_revolt_custodii
+        advisor_notification_enemy_troops_landing = advisor_notification_enemy_troops_landing_custodii
+        advisor_notification_building_ruined = advisor_notification_building_ruined_custodii
+        advisor_notification_colonization_progress = advisor_notification_colonization_progress_custodii
+        advisor_notification_tile_blocker_clear = advisor_notification_tile_blocker_clear_custodii
+        
+        # Research and projects
+        advisor_notification_research_complete = advisor_notification_research_complete_custodii
+        advisor_notification_special_project_complete = advisor_notification_special_project_complete_custodii
+        advisor_notification_situation_log = advisor_notification_situation_log_custodii
+        advisor_notification_discovery_detected = advisor_notification_discovery_detected_custodii
+        advisor_notification_debris_analysed = advisor_notification_debris_analysed_custodii
+        
+        # Diplomacy and first contact
+        advisor_notification_alien_empire_communication = advisor_notification_alien_empire_communication_custodii
+        advisor_notification_alien_federation_formed = advisor_notification_alien_federation_formed_custodii
+        advisor_notification_alien_vessel_encountered = advisor_notification_alien_vessel_encountered_custodii
+        advisor_notification_federation_formed = advisor_notification_federation_formed_custodii
+        advisor_notification_incoming_transmission = advisor_notification_incoming_transmission_custodii
+        
+        # War notifications
+        advisor_notification_enemy_declared_war = advisor_notification_enemy_declared_war_custodii
+        advisor_notification_player_declare_war = advisor_notification_player_declare_war_custodii
+        advisor_notification_generic_war_declare = advisor_notification_generic_war_declare_custodii
+        
+        # Misc notifications
+        advisor_notification_ships_upgraded = advisor_notification_ships_upgraded_custodii
+        advisor_notification_primitive_enlighted = advisor_notification_primitive_enlighted_custodii
+        advisor_notification_pre_sapient_uplifted = advisor_notification_pre_sapient_uplifted_custodii
+        advisor_notification_species_modified = advisor_notification_species_modified_custodii
+        advisor_notification_unidentified_object = advisor_notification_unidentified_object_custodii
+        advisor_notification_spaceborne_encounter = advisor_notification_spaceborne_encounter_custodii
+    }
+    
+    weight_modifiers = {
+        base = 0
+        modifier = {
+            add = 100
+            is_machine_empire = yes
+        }
+    }
+} 

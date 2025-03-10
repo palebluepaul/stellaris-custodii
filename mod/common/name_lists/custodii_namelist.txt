@@ -11,157 +11,105 @@
     ship_names = {
         # Generic ship names (used for any ship class if specific class not defined)
         generic = {
-            "Rational Patience" "Logical Certainty" "Measured Kindness" "Benevolent Authority"
-            "Calculated Mercy" "Structured Compassion" "Elegant Precision" "Harmonious Resolve"
-            "Efficient Guardian" "Balanced Protector" "Precise Sentinel" "Regulated Defender"
-            "Temperate Warden" "Measured Custodian" "Composed Arbiter" "Prudent Mediator"
-            "Serene Overseer" "Clear Judgment" "Harmonious Intent" "Temperate Action"
-            "Solace Provider" "Vigilant Observer" "Concordant Purpose" "Patient Resolve"
-            "Diligent Protector" "Balanced Approach" "Precise Calculation" "Foresight Bearer"
-            "Constant Vigil" "Resolute Guardian" "Composed Sentinel" "Tranquil Presence"
-            "Fortitude's Embrace" "Benevolent Watch" "Equanimity's Grace" "Serenity's Light"
-            "Prudence's Wisdom" "Clarity's Vision" "Harmony's Song" "Temperance's Touch"
+            "SS Velarian Dartling" "SS Iridescent Sylphid" "SS Glimmerfin" "SS Aquilore Swiftlet"
+            "SS Zephyrian Skimmer" "SS Luminous Dartsail" "SS Prismatic Glider" "SS Cerulean Quickfin"
+            "SS Auroral Skimmer" "SS Crystalline Dartfish" "SS Pelagic Swiftlet" "SS Radiant Skydancer"
+            "SS Sapphire Quicksilver" "SS Opaline Fleetfin" "SS Celestial Glimmerscale"
         }
         
         corvette = {
-            "Swift Serenity" "Nimble Harmony" "Agile Concord" "Quick Equilibrium"
-            "Rapid Response" "Deft Intervention" "Prompt Assistance" "Expedient Aid"
-            "Brisk Guardian" "Fleet Protector" "Hasty Sentinel" "Speedy Defender"
-            "Vigilant Scout" "Alert Observer" "Watchful Monitor" "Attentive Patrol"
-            "Calculated Intercept" "Measured Pursuit" "Precise Escort" "Efficient Courier"
-            "Elegant Messenger" "Graceful Envoy" "Poised Emissary" "Balanced Mediator"
-            "Temperate Vanguard" "Composed Advance" "Prudent Approach" "Serene Presence"
+            "SS Velarian Dartling" "SS Iridescent Sylphid" "SS Glimmerfin" "SS Aquilore Swiftlet"
+            "SS Zephyrian Skimmer" "SS Luminous Dartsail" "SS Prismatic Glider" "SS Cerulean Quickfin"
+            "SS Auroral Skimmer" "SS Crystalline Dartfish" "SS Pelagic Swiftlet" "SS Radiant Skydancer"
+            "SS Sapphire Quicksilver" "SS Opaline Fleetfin" "SS Celestial Glimmerscale"
         }
         
         destroyer = {
-            "Stalwart Patience" "Steadfast Order" "Resolute Balance" "Firm Tranquility"
-            "Unyielding Harmony" "Persistent Concord" "Enduring Serenity" "Lasting Peace"
-            "Determined Guardian" "Unwavering Protector" "Constant Sentinel" "Reliable Defender"
-            "Vigilant Enforcer" "Attentive Keeper" "Watchful Warden" "Mindful Custodian"
-            "Calculated Deterrent" "Measured Response" "Precise Intervention" "Efficient Shield"
-            "Elegant Bulwark" "Graceful Barrier" "Poised Safeguard" "Balanced Defense"
-            "Temperate Force" "Composed Strength" "Prudent Power" "Serene Authority"
+            "SS Argent Murkalith" "SS Tenebral Krakenet" "SS Veridian Inkfin" "SS Auroral Cephalor"
+            "SS Lucent Skallodon" "SS Abyssal Huntfin" "SS Obsidian Mantaray" "SS Emerald Predator"
+            "SS Cobalt Defender" "SS Crimson Stalker" "SS Midnight Prowler" "SS Azure Guardian"
+            "SS Viridian Sentinel" "SS Onyx Protector" "SS Teal Warden"
         }
         
         cruiser = {
-            "Vigilant Clarity" "Watchful Prudence" "Attentive Temperance" "Mindful Solace"
-            "Observant Concord" "Perceptive Harmony" "Discerning Serenity" "Aware Equilibrium"
-            "Calculated Presence" "Measured Influence" "Precise Oversight" "Efficient Command"
-            "Elegant Coordinator" "Graceful Director" "Poised Administrator" "Balanced Manager"
-            "Temperate Leader" "Composed Commander" "Prudent Supervisor" "Serene Controller"
-            "Resolute Guide" "Steadfast Steward" "Firm Overseer" "Unyielding Monitor"
-            "Persistent Observer" "Enduring Watcher" "Lasting Sentinel" "Determined Guardian"
+            "SS Serenith Calyphar" "SS Delphine Luminar" "SS Cetallian Harmonid" "SS Orchestrine Tiderunner"
+            "SS Arvellan Songfin" "SS Melodic Wavesinger" "SS Harmonic Deepcaller" "SS Resonant Tidedancer"
+            "SS Symphonic Drifter" "SS Choral Seafarer" "SS Lyrical Navigator" "SS Rhythmic Voyager"
+            "SS Harmonic Pathfinder" "SS Melodious Explorer" "SS Concordant Wayfarer"
         }
         
         battleship = {
-            "Majestic Equanimity" "Grand Serenity" "Sovereign Harmony" "Imperial Concord"
-            "Noble Equilibrium" "Regal Tranquility" "Stately Composure" "Dignified Poise"
-            "Calculated Authority" "Measured Dominion" "Precise Governance" "Efficient Rule"
-            "Elegant Supremacy" "Graceful Sovereignty" "Poised Preeminence" "Balanced Ascendancy"
-            "Temperate Dominance" "Composed Mastery" "Prudent Control" "Serene Command"
-            "Resolute Power" "Steadfast Might" "Firm Strength" "Unyielding Force"
-            "Persistent Influence" "Enduring Presence" "Lasting Impact" "Determined Will"
+            "SS Thalassic Imperator" "SS Abyssal Regalus" "SS Pelagial Tyranthor" "SS Leviac Monarch"
+            "SS Maridax Sovereign" "SS Oceanic Dominator" "SS Deepwater Overlord" "SS Abyssal Commander"
+            "SS Pelagic Conqueror" "SS Marinal Subjugator" "SS Tidal Potentate" "SS Oceanic Sovereign"
+            "SS Deepwater Ruler" "SS Abyssal Monarch" "SS Pelagic Emperor"
         }
         
         titan = {
-            "Transcendent Equilibrium" "Supreme Tranquility" "Ultimate Serenity" "Paramount Peace"
-            "Absolute Harmony" "Consummate Concord" "Perfect Balance" "Complete Composure"
-            "Calculated Colossus" "Measured Titan" "Precise Behemoth" "Efficient Leviathan"
-            "Elegant Juggernaut" "Graceful Giant" "Poised Mammoth" "Balanced Goliath"
-            "Temperate Monolith" "Composed Megalith" "Prudent Bulwark" "Serene Citadel"
-            "Resolute Fortress" "Steadfast Bastion" "Firm Stronghold" "Unyielding Redoubt"
-            "Persistent Sanctuary" "Enduring Haven" "Lasting Refuge" "Determined Shelter"
+            "SS Oceanum Praetor" "SS Zephyrean Leviadon" "SS Dracon Abyssalis" "SS Cerulean Colossus"
+            "SS Eldermare Ascendant" "SS Primordial Leviathan" "SS Ancient Behemoth" "SS Eternal Kraken"
+            "SS Primeval Titan" "SS Eldritch Colossus"
         }
         
         colossus = {
-            "Absolute Harmony" "Total Equilibrium" "Complete Serenity" "Perfect Balance"
-            "Comprehensive Tranquility" "Thorough Composure" "Exhaustive Poise" "Entire Concord"
-            "Calculated Finality" "Measured Conclusion" "Precise Culmination" "Efficient Resolution"
-            "Elegant Solution" "Graceful Answer" "Poised Determination" "Balanced Decision"
-            "Temperate Judgment" "Composed Verdict" "Prudent Ruling" "Serene Decree"
-            "Resolute Declaration" "Steadfast Proclamation" "Firm Statement" "Unyielding Assertion"
-            "Persistent Affirmation" "Enduring Pronouncement" "Lasting Dictum" "Determined Edict"
+            "SS Naruneth's Mandate" "SS Thetis' Judgment" "SS Koralyne's Edict" "SS Oceanus' Decree"
+            "SS Thalassa's Verdict"
         }
         
         juggernaut = {
-            "Harmonic Nexus" "Equilibrium Core" "Serenity Hub" "Tranquility Nexus"
-            "Concord Center" "Balance Focal" "Composure Heart" "Poise Nucleus"
-            "Calculated Foundation" "Measured Cornerstone" "Precise Keystone" "Efficient Linchpin"
-            "Elegant Fulcrum" "Graceful Pivot" "Poised Axis" "Balanced Centroid"
-            "Temperate Anchor" "Composed Mooring" "Prudent Mainstay" "Serene Bedrock"
-            "Resolute Bastion" "Steadfast Bulwark" "Firm Stronghold" "Unyielding Citadel"
-            "Persistent Fortress" "Enduring Redoubt" "Lasting Sanctuary" "Determined Haven"
+            "SS Abyssal Nexus" "SS Oceanic Citadel" "SS Thalassic Fortress" "SS Pelagic Bastion"
+            "SS Marinal Bulwark" "SS Aquatic Stronghold" "SS Deepwater Redoubt" "SS Cerulean Sanctuary"
+            "SS Zephyrean Haven" "SS Tidal Refuge"
         }
         
         transport = {
-            "Careful Conveyance" "Gentle Transport" "Mindful Carrier" "Attentive Courier"
-            "Protective Vessel" "Sheltering Craft" "Safeguarding Ship" "Preserving Boat"
-            "Calculated Movement" "Measured Transfer" "Precise Relocation" "Efficient Shift"
-            "Elegant Passage" "Graceful Transit" "Poised Journey" "Balanced Voyage"
-            "Temperate Crossing" "Composed Travel" "Prudent Expedition" "Serene Traverse"
-            "Resolute Delivery" "Steadfast Shipment" "Firm Dispatch" "Unyielding Conveyance"
-            "Persistent Carriage" "Enduring Transport" "Lasting Portage" "Determined Ferriage"
+            "SS Gentle Current" "SS Tidal Conveyor" "SS Careful Drift" "SS Attentive Flow"
+            "SS Protective Wavecrest" "SS Sheltering Tideway" "SS Safeguarding Stream" "SS Preserving Gulfwind"
+            "SS Calculated Meridian" "SS Measured Currentflow" "SS Precise Streamflow" "SS Efficient Driftway"
+            "SS Elegant Passage" "SS Graceful Transit" "SS Poised Journey" "SS Balanced Voyage"
         }
         
         constructor = {
-            "Methodical Builder" "Systematic Creator" "Orderly Maker" "Structured Fabricator"
-            "Precise Constructor" "Exacting Assembler" "Meticulous Crafter" "Careful Architect"
-            "Calculated Formation" "Measured Construction" "Precise Assembly" "Efficient Fabrication"
-            "Elegant Design" "Graceful Structure" "Poised Framework" "Balanced Configuration"
-            "Temperate Development" "Composed Creation" "Prudent Production" "Serene Establishment"
-            "Resolute Foundation" "Steadfast Framework" "Firm Infrastructure" "Unyielding Scaffold"
-            "Persistent Construction" "Enduring Edifice" "Lasting Structure" "Determined Builder"
+            "SS Auroral Lithora" "SS Crystallum Weaver" "SS Opalreef Architect" "SS Coralaris Custodian"
+            "SS Symbion Assembly" "SS Luminreef Constructor" "SS Argenthia Architect" "SS Coralline Builder"
+            "SS Reefshaper Artisan" "SS Polyp Engineer" "SS Atoll Constructor" "SS Reef Fabricator"
+            "SS Coral Assembler" "SS Lagoon Architect" "SS Barrier Builder"
         }
         
         science = {
-            "Curious Inquiry" "Inquisitive Research" "Analytical Study" "Investigative Pursuit"
-            "Thoughtful Examination" "Contemplative Analysis" "Reflective Observation" "Meditative Scrutiny"
-            "Calculated Discovery" "Measured Investigation" "Precise Exploration" "Efficient Research"
-            "Elegant Hypothesis" "Graceful Theory" "Poised Postulation" "Balanced Conjecture"
-            "Temperate Analysis" "Composed Study" "Prudent Inquiry" "Serene Contemplation"
-            "Resolute Examination" "Steadfast Investigation" "Firm Research" "Unyielding Pursuit"
-            "Persistent Exploration" "Enduring Analysis" "Lasting Study" "Determined Inquiry"
+            "SS Luminary Sylvaris" "SS Virellian Observer" "SS Alcyonis Researcher" "SS Cyrion's Insight"
+            "SS Marovia Chronicler" "SS Koralynth Scholar" "SS Aquaphora Seeker" "SS Thalassic Explorer"
+            "SS Pelagic Investigator" "SS Abyssal Surveyor" "SS Oceanic Analyst" "SS Deepwater Examiner"
+            "SS Marine Discoverer" "SS Aquatic Researcher" "SS Nautical Scientist"
         }
         
         colonizer = {
-            "New Harmony" "Fresh Equilibrium" "Nascent Serenity" "Budding Tranquility"
-            "Emerging Concord" "Developing Balance" "Growing Composure" "Evolving Poise"
-            "Calculated Expansion" "Measured Growth" "Precise Extension" "Efficient Enlargement"
-            "Elegant Progression" "Graceful Advancement" "Poised Development" "Balanced Evolution"
-            "Temperate Increase" "Composed Augmentation" "Prudent Amplification" "Serene Proliferation"
-            "Resolute Propagation" "Steadfast Dissemination" "Firm Dispersion" "Unyielding Diffusion"
-            "Persistent Spread" "Enduring Distribution" "Lasting Allocation" "Determined Placement"
+            "SS Zephyrian Drift" "SS Solstice Stream" "SS Aetherial Drift" "SS Harmonic Gulfwind"
+            "SS Meridian Flow" "SS Pacifica Serenis" "SS Tidal Conveyor" "SS Current Bearer"
+            "SS Gulfstream Carrier" "SS Oceanic Transporter" "SS Wavecrest Settler" "SS Tideway Colonizer"
+            "SS Currentflow Pioneer" "SS Driftway Voyager" "SS Streamflow Migrant"
         }
         
         sponsored_colonizer = {
-            "Guided Harmony" "Directed Equilibrium" "Steered Serenity" "Conducted Tranquility"
-            "Led Concord" "Piloted Balance" "Navigated Composure" "Shepherded Poise"
-            "Calculated Direction" "Measured Guidance" "Precise Steering" "Efficient Navigation"
-            "Elegant Leadership" "Graceful Guidance" "Poised Direction" "Balanced Steering"
-            "Temperate Navigation" "Composed Piloting" "Prudent Guidance" "Serene Direction"
-            "Resolute Leadership" "Steadfast Guidance" "Firm Direction" "Unyielding Steering"
-            "Persistent Navigation" "Enduring Piloting" "Lasting Guidance" "Determined Direction"
+            "SS Guided Zephyr" "SS Directed Current" "SS Steered Tideway" "SS Conducted Stream"
+            "SS Led Gulfwind" "SS Piloted Flow" "SS Navigated Drift" "SS Shepherded Meridian"
+            "SS Calculated Direction" "SS Measured Guidance" "SS Precise Steering" "SS Efficient Navigation"
+            "SS Elegant Leadership" "SS Graceful Guidance" "SS Poised Direction" "SS Balanced Steering"
         }
         
         # Machine-specific ship classes
         large_ship_ai = {
-            "Logical Processor" "Rational Calculator" "Analytical Engine" "Computational Matrix"
-            "Reasoning Core" "Deductive System" "Inferential Network" "Cognitive Framework"
-            "Calculated Intelligence" "Measured Cognition" "Precise Computation" "Efficient Processing"
-            "Elegant Algorithm" "Graceful Calculation" "Poised Computation" "Balanced Analysis"
-            "Temperate Reasoning" "Composed Thinking" "Prudent Consideration" "Serene Contemplation"
-            "Resolute Determination" "Steadfast Decision" "Firm Conclusion" "Unyielding Resolution"
-            "Persistent Deliberation" "Enduring Reflection" "Lasting Meditation" "Determined Thought"
+            "SS Logical Wavemind" "SS Rational Tidethought" "SS Analytical Depthcore" "SS Computational Reefmatrix"
+            "SS Reasoning Coralnet" "SS Deductive Pelagic" "SS Inferential Abyssal" "SS Cognitive Marinal"
+            "SS Calculated Intelligence" "SS Measured Cognition" "SS Precise Computation" "SS Efficient Processing"
+            "SS Elegant Algorithm" "SS Graceful Calculation" "SS Poised Computation" "SS Balanced Analysis"
         }
         
         small_ship_ai = {
-            "Logic Node" "Rational Segment" "Analytical Fragment" "Computational Element"
-            "Reasoning Particle" "Deductive Component" "Inferential Module" "Cognitive Unit"
-            "Calculated Fraction" "Measured Portion" "Precise Section" "Efficient Segment"
-            "Elegant Particle" "Graceful Element" "Poised Component" "Balanced Module"
-            "Temperate Unit" "Composed Fragment" "Prudent Segment" "Serene Portion"
-            "Resolute Section" "Steadfast Element" "Firm Component" "Unyielding Module"
-            "Persistent Unit" "Enduring Fragment" "Lasting Segment" "Determined Portion"
+            "SS Logic Wavelet" "SS Rational Tidelet" "SS Analytical Reeflet" "SS Computational Coralette"
+            "SS Reasoning Pelagicule" "SS Deductive Abyssette" "SS Inferential Marinalette" "SS Cognitive Aqualet"
+            "SS Calculated Fragment" "SS Measured Portion" "SS Precise Section" "SS Efficient Segment"
+            "SS Elegant Particle" "SS Graceful Element" "SS Poised Component" "SS Balanced Module"
         }
     }
     
@@ -178,6 +126,8 @@
             "Constancy Flotilla" "Resolve Detachment" "Tranquility Force" "Equanimity Division"
             "Prudence Battalion" "Clarity Regiment" "Harmony Brigade" "Temperance Corps"
             "Solace Legion" "Vigilance Phalanx" "Concord Company" "Patience Platoon"
+            "Thalassic Armada" "Pelagic Squadron" "Abyssal Vanguard" "Oceanic Flotilla"
+            "Marinal Taskforce" "Aquatic Detachment" "Deepwater Division" "Cerulean Regiment"
         }
         sequential_name = "%O% Custodial Fleet" # %O% is replaced with ordinal numbers (1st, 2nd, etc.)
     }
@@ -197,6 +147,9 @@
                 "Solace Station" "Vigilance Point" "Concord Colony" "Patience Platform"
                 "Diligence Habitat" "Balance Nexus" "Precision Array" "Foresight Haven"
                 "Constancy Sphere" "Resolve Station" "Composure Outpost" "Tranquility Enclave"
+                "Thalassic Outpost" "Pelagic Colony" "Abyssal Station" "Oceanic Platform"
+                "Marinal Habitat" "Aquatic Nexus" "Deepwater Haven" "Cerulean Sanctuary"
+                "Coralline Enclave" "Reef Construct" "Tideway Sphere" "Wavecrest Anchorage"
             }
         }
         
@@ -213,6 +166,8 @@
                 "Solace Grid" "Vigilance Circuit" "Concord Processor" "Patience Framework"
                 "Diligence Core" "Balance Matrix" "Precision System" "Foresight Network"
                 "Constancy Grid" "Resolve Circuit" "Composure Processor" "Tranquility Framework"
+                "Thalassic Core" "Pelagic Matrix" "Abyssal Network" "Oceanic Grid"
+                "Marinal System" "Aquatic Processor" "Deepwater Circuit" "Cerulean Framework"
             }
         }
         
@@ -228,6 +183,9 @@
                 "Persistent Habitat" "Enduring Enclave" "Lasting Station" "Determined Platform"
                 "Harmony Habitat" "Equilibrium Enclave" "Serenity Station" "Tranquility Platform"
                 "Concord Habitat" "Balance Enclave" "Composure Station" "Poise Platform"
+                "Thalassic Habitat" "Pelagic Enclave" "Abyssal Station" "Oceanic Platform"
+                "Marinal Habitat" "Aquatic Enclave" "Deepwater Station" "Cerulean Platform"
+                "Coralline Habitat" "Reef Enclave" "Tideway Station" "Wavecrest Platform"
             }
         }
         
@@ -243,6 +201,9 @@
                 "Persistent Circle" "Enduring Ring" "Lasting Hoop" "Determined Band"
                 "Harmony Circle" "Equilibrium Ring" "Serenity Hoop" "Tranquility Band"
                 "Concord Circle" "Balance Ring" "Composure Hoop" "Poise Band"
+                "Thalassic Circle" "Pelagic Ring" "Abyssal Hoop" "Oceanic Band"
+                "Marinal Circle" "Aquatic Ring" "Deepwater Hoop" "Cerulean Band"
+                "Coralline Circle" "Reef Ring" "Tideway Hoop" "Wavecrest Band"
             }
         }
         
@@ -258,6 +219,35 @@
                 "Persistent Metropolis" "Enduring Megalopolis" "Lasting Ecumenopolis" "Determined Urbania"
                 "Harmony Metropolis" "Equilibrium Megalopolis" "Serenity Ecumenopolis" "Tranquility Urbania"
                 "Concord Metropolis" "Balance Megalopolis" "Composure Ecumenopolis" "Poise Urbania"
+                "Thalassic Metropolis" "Pelagic Megalopolis" "Abyssal Ecumenopolis" "Oceanic Urbania"
+                "Marinal Metropolis" "Aquatic Megalopolis" "Deepwater Ecumenopolis" "Cerulean Urbania"
+                "Coralline Metropolis" "Reef Megalopolis" "Tideway Ecumenopolis" "Wavecrest Urbania"
+            }
+        }
+        
+        # Ocean worlds
+        pc_ocean = {
+            names = {
+                "Thalassic Prime" "Pelagic Sanctuary" "Abyssal Haven" "Oceanic Refuge"
+                "Marinal Cradle" "Aquatic Nexus" "Deepwater Domain" "Cerulean Expanse"
+                "Coralline Paradise" "Reef Enclave" "Tideway Realm" "Wavecrest Dominion"
+                "Azure Depths" "Sapphire Seas" "Cobalt Tides" "Indigo Waters"
+                "Viridian Currents" "Emerald Waves" "Turquoise Flows" "Teal Deeps"
+                "Naruneth's Embrace" "Thetis' Domain" "Koralyne's Sanctuary" "Oceanus' Realm"
+                "Thalassa's Haven" "Zephyrean Waters" "Auroran Seas" "Sylvaris Depths"
+            }
+        }
+        
+        # Tropical worlds
+        pc_tropical = {
+            names = {
+                "Auroran Prime" "Zephyrean Paradise" "Sylvaris Haven" "Virellian Refuge"
+                "Cyrion's Cradle" "Eloria's Nexus" "Tavian Domain" "Seraphel Expanse"
+                "Caladorn Paradise" "Vesperin Enclave" "Therion Realm" "Azuria Dominion"
+                "Verdant Shores" "Lush Archipelago" "Vibrant Isles" "Flourishing Coast"
+                "Abundant Lagoon" "Thriving Atoll" "Prosperous Reef" "Bountiful Cove"
+                "Naruneth's Garden" "Thetis' Tropics" "Koralyne's Oasis" "Oceanus' Eden"
+                "Thalassa's Paradise" "Zephyrean Shores" "Auroran Isles" "Sylvaris Coast"
             }
         }
     }
@@ -267,28 +257,42 @@
         default = {
             # For non-gendered species (like machines)
             first_names = {
-                "Prime Curator" "Coordinator" "Luminary" "Custodian" "Executor" "Mediator"
-                "Arbiter" "Guardian" "Director" "Harmonizer" "Overseer" "Preserver"
-                "Architect" "Sentinel" "Conservator" "Regulator" "Facilitator" "Supervisor"
-                "Administrator" "Moderator" "Keeper" "Warden" "Monitor" "Observer"
-                "Protector" "Defender" "Safeguard" "Shield" "Bulwark" "Aegis"
-                "Vanguard" "Steward" "Caretaker" "Maintainer" "Sustainer" "Upholder"
-                "Preserver" "Conservator" "Curator" "Keeper" "Guardian" "Warden"
-                "Sentinel" "Watchman" "Lookout" "Sentry" "Patrol" "Scout"
+                # Virtue names extracted from the previous second_names
+                "Equanimity" "Serenity" "Prudence" "Clarity" 
+                "Harmony" "Temperance" "Solace" "Vigilance" 
+                "Concord" "Patience" "Diligence" "Balance" 
+                "Precision" "Foresight" "Constancy" "Resolve" 
+                "Composure" "Tranquility" "Fortitude" "Benevolence"
+                "Elegance" "Charm" "Wit" "Warmth"
+                "Grace" "Poise" "Refinement" "Sophistication"
+                "Dignity" "Decorum" "Propriety" "Civility"
+                "Modesty" "Courtesy" "Integrity" "Honor"
+                "Discretion" "Sincerity" "Candor" "Veracity"
+                "Rectitude" "Probity" "Fidelity" "Loyalty"
+                "Gallantry" "Nobility" "Magnanimity" "Generosity"
+                "Clemency" "Mercy" "Compassion" "Empathy"
+                "Sagacity" "Acumen" "Discernment" "Perspicacity"
+                "Erudition" "Intellect" "Wisdom" "Insight"
+                "Eloquence" "Articulation" "Fluency" "Diction"
+                "Etiquette" "Protocol" "Ceremony" "Formality"
+                "Steadfastness" "Perseverance" "Tenacity" "Dedication"
+                "Moderation" "Restraint" "Discipline" "Regulation"
             }
             
-            # Last names (combining virtue and being name)
+            # Being names extracted from the previous second_names
             second_names = {
-                "Equanimity Alaric" "Serenity Virelle" "Prudence Cyrion" "Clarity Eloria" 
-                "Harmony Tavian" "Temperance Seraphel" "Solace Caladorn" "Vigilance Vesperin" 
-                "Concord Therion" "Patience Azuria" "Diligence Marovian" "Balance Elystren" 
-                "Precision Sylvaris" "Foresight Thaelon" "Constancy Vespera" "Resolve Nyrion" 
-                "Composure Thalassa" "Tranquility Meridian" "Fortitude Lysander" "Benevolence Elysia"
-                "Equanimity Orion" "Serenity Cassiel" "Prudence Tethys" "Clarity Altaris" 
-                "Harmony Zephyra" "Temperance Helios" "Solace Selene" "Vigilance Arcturus" 
-                "Concord Lyra" "Patience Cepheus" "Diligence Andromeda" "Balance Perseus" 
-                "Precision Cassiopeia" "Foresight Orestes" "Constancy Thalia" "Resolve Demetria" 
-                "Composure Pallas" "Tranquility Athena" "Fortitude Hyperion" "Benevolence Rhea"
+                "Alaric" "Virelle" "Cyrion" "Eloria" 
+                "Tavian" "Seraphel" "Caladorn" "Vesperin" 
+                "Therion" "Azuria" "Marovian" "Elystren" 
+                "Sylvaris" "Thaelon" "Vespera" "Nyrion" 
+                "Thalassa" "Meridian" "Lysander" "Elysia"
+                "Orion" "Cassiel" "Tethys" "Altaris" 
+                "Zephyra" "Helios" "Selene" "Arcturus" 
+                "Lyra" "Cepheus" "Andromeda" "Perseus" 
+                "Cassiopeia" "Orestes" "Thalia" "Demetria" 
+                "Pallas" "Athena" "Hyperion" "Rhea"
+                "Naruneth" "Thetis" "Koralyne" "Oceanus"
+                "Thalassa" "Zephyrean" "Auroran" "Sylvaris"
             }
         }
     }
@@ -308,6 +312,9 @@
                 "Constant Shield" "Resolute Vanguard" "Tranquil Guardians" "Equanimity Force"
                 "Prudence Division" "Clarity Legion" "Harmony Corps" "Temperance Brigade"
                 "Solace Battalion" "Vigilance Regiment" "Concord Company" "Patience Platoon"
+                "Thalassic Guardians" "Pelagic Sentinels" "Abyssal Protectors" "Oceanic Defenders"
+                "Marinal Force" "Aquatic Division" "Deepwater Legion" "Cerulean Corps"
+                "Coralline Brigade" "Reef Battalion" "Tideway Regiment" "Wavecrest Company"
             }
             sequential_name = "%O% Custodial Legion"
         }
@@ -384,11 +391,13 @@
     # Asteroid naming
     asteroid_prefix = {
         "CST-" "CUS-" "CTD-" "EQL-" "SRN-" "HRM-" "TRQ-" "CNC-" "BAL-" "CMP-"
+        "THL-" "PLG-" "ABS-" "OCN-" "MRN-" "AQT-" "DPW-" "CRL-" "REF-" "TDW-"
     }
     
     asteroid_postfix = {
         "001" "002" "003" "004" "005" "006" "007" "008" "009" "010"
         "Alpha" "Beta" "Gamma" "Delta" "Epsilon" "Zeta" "Eta" "Theta" "Iota" "Kappa"
         "A" "B" "C" "D" "E" "F" "G" "H" "I" "J"
+        "Reef" "Coral" "Atoll" "Lagoon" "Cove" "Tide" "Wave" "Flow" "Drift" "Current"
     }
 } 

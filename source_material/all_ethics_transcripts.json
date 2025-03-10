@@ -1,0 +1,1038 @@
+{
+  "advisor_notification_evade_hostile_fleet_01.wav": {
+    "militarist": "Initiating tactical retreat.",
+    "pacifist": "Evading hostiles.",
+    "xenophile": "Fleeing aggressors.",
+    "egalitarian": "Evading hostiles.",
+    "machine_empire": "Executing evasion protocols.",
+    "materialist": "Evading hostiles.",
+    "hivemind": "We flee the Hostiles forum.",
+    "xenophobe": "Evasive maneuvers initiated.",
+    "authoritarian": "Tactical retreat.",
+    "spiritualist": "Evading heretics."
+  },
+  "advisor_notification_research_complete_01.wav": {
+    "militarist": "Scientific breakthrough achieved.",
+    "pacifist": "Technology researched.",
+    "xenophile": "Research complete.",
+    "egalitarian": "Technology discovered.",
+    "machine_empire": "Technological acquisition successful.",
+    "materialist": "Research concluded.",
+    "hivemind": "Technology conceived.",
+    "xenophobe": "We have mastered a new technology.",
+    "authoritarian": "Technology secured.",
+    "spiritualist": "The spirits have granted us new wisdom."
+  },
+  "advisor_notification_colony_established_01.wav": {
+    "militarist": "We have established a new planetary base.",
+    "pacifist": "Planet colonized.",
+    "xenophile": "New frontiers established.",
+    "egalitarian": "Colony founded.",
+    "machine_empire": "Planetary surface settlement established.",
+    "materialist": "Initial colonization phase complete.",
+    "hivemind": "A new nest is born.",
+    "xenophobe": "We have claimed a new world for our people.",
+    "authoritarian": "Sphere of influence expanded.",
+    "spiritualist": "The faithful have claimed a new world."
+  },
+  "advisor_notification_spaceport_lost_02.wav": {
+    "militarist": "The cowards have destroyed one of our spaceports.",
+    "hivemind": "Our space hive is lost.",
+    "authoritarian": "Spaceport in orbit lost."
+  },
+  "advisor_notification_system_survey_complete_02.wav": {
+    "militarist": "System survey complete.",
+    "materialist": "System survey concluded, Horizons expanded."
+  },
+  "advisor_notification_invasion_success_02.wav": {
+    "militarist": "Our warriors are victorious."
+  },
+  "advisor_notification_planet_in_revolt_02.wav": {
+    "militarist": "One of our planets is rebelling against its rightful masters.",
+    "pacifist": "The insurgents are revolting.",
+    "materialist": "Warning. Planetary revolt. Apparently, some fail to see the bigger picture."
+  },
+  "advisor_notification_unidentified_object_01.wav": {
+    "militarist": "We are tracking an unidentified object.",
+    "pacifist": "Unidentified object detected.",
+    "xenophile": "Unidentified object detected.",
+    "egalitarian": "Unknown object detected.",
+    "machine_empire": "Alert. Unidentified variable detected.",
+    "materialist": "Unidentified object on sensors.",
+    "hivemind": "Unknown object received.",
+    "xenophobe": "Unidentified threat detected.",
+    "authoritarian": "Unidentified object detected.",
+    "spiritualist": "We have spied an unknown object."
+  },
+  "advisor_notification_frontier_outpost_lost_02.wav": {
+    "militarist": "The Kravens have destroyed one of our frontier outposts.",
+    "hivemind": "Our frontier hive is lost."
+  },
+  "advisor_notification_invasion_failed_02.wav": {
+    "militarist": "Our warriors have failed to conquer a planet.",
+    "pacifist": "Pacification attempt resisted.",
+    "egalitarian": "Liberation attempt resisted."
+  },
+  "advisor_notification_research_station_lost_01.wav": {
+    "militarist": "The weaklings have destroyed one of our research stations.",
+    "pacifist": "Research station lost.",
+    "xenophile": "Spacebound signs, Platform lost.",
+    "egalitarian": "Research station lost.",
+    "machine_empire": "Alert. Research station deconstructed.",
+    "materialist": "Research station offline.",
+    "hivemind": "Our science tank is lost.",
+    "xenophobe": "One of our research stations has been lost.",
+    "authoritarian": "0G. Research output violently diminished.",
+    "spiritualist": "Research station martyred."
+  },
+  "advisor_notification_spaceport_lost_01.wav": {
+    "militarist": "The cowards have destroyed one of our spaceports.",
+    "pacifist": "Spaceport lost.",
+    "xenophile": "Spaceport lost.",
+    "egalitarian": "Spaceport lost.",
+    "machine_empire": "Alert. Spaceport deconstructed.",
+    "materialist": "Spaceport offline.",
+    "hivemind": "Our space hive is lost.",
+    "xenophobe": "One of our spaceports has been lost.",
+    "authoritarian": "Vessel production capacity violently diminished.",
+    "spiritualist": "Spaceport martyred."
+  },
+  "advisor_notification_system_survey_complete_01.wav": {
+    "militarist": "System survey complete.",
+    "pacifist": "System surveyed.",
+    "xenophile": "System survey complete.",
+    "egalitarian": "Survey complete.",
+    "machine_empire": "System survey complete.",
+    "materialist": "System Survey concluded.",
+    "hivemind": "We have surveyed the system.",
+    "xenophobe": "System survey complete.",
+    "authoritarian": "Star system charted.",
+    "spiritualist": "System survey complete."
+  },
+  "advisor_notification_evade_hostile_fleet_02.wav": {
+    "militarist": "Initiating tactical retreat.",
+    "hivemind": "We flee amongst our sword."
+  },
+  "advisor_notification_invasion_success_01.wav": {
+    "militarist": "All warriors are victorious. Enemy planet conquered.",
+    "pacifist": "Hostile planet pacified.",
+    "xenophile": "Aggressor colony emancipated.",
+    "egalitarian": "Colony conquered.",
+    "machine_empire": "Ground invasion units have achieved all objectives.",
+    "materialist": "Planetary Incursion Initiative successful.",
+    "hivemind": "Enemy nest trigger.",
+    "xenophobe": "Xeno lair secured.",
+    "authoritarian": "Ground invasion force has seized a planet.",
+    "spiritualist": "Our champions have secured a heathen planet."
+  },
+  "advisor_notification_planet_in_revolt_01.wav": {
+    "militarist": "One of our planets is rebelling against its rightful masters.",
+    "pacifist": "A planet is revolting.",
+    "xenophile": "We have some violently unhappy colonists.",
+    "egalitarian": "Our people are revolting.",
+    "machine_empire": "Planetary alert. Civil non compliance detected.",
+    "materialist": "Warning. Planetary revolt.",
+    "hivemind": "Drones have gone rogue.",
+    "xenophobe": "A planet is in open revolt.",
+    "authoritarian": "Insurgents detected otten colony.",
+    "spiritualist": "A planet has succumbed to blasphemy."
+  },
+  "advisor_notification_frontier_outpost_lost_01.wav": {
+    "militarist": "The Kravens have destroyed one of our frontier outposts.",
+    "pacifist": "Frontier outpost lost.",
+    "xenophile": "Frontier outpost lost.",
+    "egalitarian": "Frontier outpost lost.",
+    "machine_empire": "Alert. Frontier outpost deconstructed.",
+    "materialist": "Frontier outpost offline.",
+    "hivemind": "And Frontierheim is lost.",
+    "xenophobe": "One of our frontier outposts has been lost.",
+    "authoritarian": "Frontier outpost lost.",
+    "spiritualist": "Frontier outpost martyred."
+  },
+  "advisor_notification_unidentified_object_02.wav": {
+    "militarist": "We are tracking an unidentified object."
+  },
+  "advisor_notification_invasion_failed_01.wav": {
+    "militarist": "Our warriors have failed to conquer a planet.",
+    "pacifist": "The invasion has failed.",
+    "xenophile": "Fail to secure planetary surface.",
+    "egalitarian": "Invasion attempt aborted for now.",
+    "machine_empire": "Ground invasion units have failed to achieve objectives.",
+    "materialist": "Planetary incursion initiative failed.",
+    "hivemind": "Nest invasion failed.",
+    "xenophobe": "The xeno scum have beaten back our invasion.",
+    "authoritarian": "Ground invasion force has met with failure.",
+    "spiritualist": "The apostates have defeated our invasion."
+  },
+  "advisor_notification_research_station_lost_02.wav": {
+    "militarist": "The weaklings have destroyed one of our research stations.",
+    "materialist": "Research station offline. We should rectify that.",
+    "authoritarian": "Zero G research platform disrupted."
+  },
+  "advisor_notification_research_complete_02.wav": {
+    "militarist": "Scientific breakthrough achieved.",
+    "materialist": "Another day, another scientific breakthrough."
+  },
+  "advisor_notification_fleet_destroyed_01.wav": {
+    "militarist": "A fleet has made the ultimate sacrifice.",
+    "pacifist": "Fleet lost.",
+    "xenophile": "Fleet lost.",
+    "egalitarian": "Fleet lost.",
+    "machine_empire": "Alert. Fleet unit offlined.",
+    "materialist": "Fleet silenced.",
+    "hivemind": "Our sword is lost.",
+    "xenophobe": "Our fleet has been lost.",
+    "authoritarian": "Vessels destroyed.",
+    "spiritualist": "Darkness has claimed one of our fleets."
+  },
+  "advisor_notification_military_station_lost_02.wav": {
+    "militarist": "A military station has been lost.",
+    "hivemind": "Our military height is lost.",
+    "authoritarian": "Solar system hardpoint lost."
+  },
+  "advisor_notification_alien_spaceport_engaged_02.wav": {
+    "militarist": "Beginning attack run on enemy spaceport.",
+    "hivemind": "Crushing. Avoid hive."
+  },
+  "advisor_notification_hostile_fleet_engaged_02.wav": {
+    "militarist": "Battle is joined.",
+    "hivemind": "A stunts were mistaken."
+  },
+  "advisor_notification_ships_upgraded_01.wav": {
+    "militarist": "Our ships have been made superior.",
+    "pacifist": "Ships upgraded.",
+    "xenophile": "Ships upgraded.",
+    "egalitarian": "Ships upgraded.",
+    "machine_empire": "Ship augmentations completed.",
+    "materialist": "Fleet enhancements applied.",
+    "hivemind": "Our swarm is strengthened.",
+    "xenophobe": "Our ships have been upgraded.",
+    "authoritarian": "Vessels upgraded.",
+    "spiritualist": "Our ships have been improved."
+  },
+  "advisor_notification_debri_analysed_01.wav": {
+    "militarist": "Debris analyzed.",
+    "pacifist": "Debris analyzed.",
+    "xenophile": "Salvage preserved.",
+    "egalitarian": "Debris analyzed.",
+    "machine_empire": "Ship fragments dissected.",
+    "materialist": "Shipwrecks studied. Fascinating.",
+    "hivemind": "We have simulated knowledge.",
+    "xenophobe": "Debris alanized.",
+    "authoritarian": "Hulks vivisected.",
+    "spiritualist": "Debris analyzed."
+  },
+  "advisor_notification_construction_ship_destroyed_02.wav": {
+    "militarist": "The cowards have destroyed our construction ship.",
+    "hivemind": "Our construction vessel is lost."
+  },
+  "advisor_notification_building_ruined_02.wav": {
+    "militarist": "Building ruined.",
+    "materialist": "Building rendered inoperable."
+  },
+  "advisor_notification_fleet_destroyed_02.wav": {
+    "militarist": "A fleet has made the ultimate sacrifice.",
+    "hivemind": "Our swan is lost."
+  },
+  "advisor_notification_military_station_lost_01.wav": {
+    "militarist": "A military station has been lost in glorious battle.",
+    "pacifist": "Military station lost.",
+    "xenophile": "Military station lost.",
+    "egalitarian": "Military station lost.",
+    "machine_empire": "Alert. Military station deconstructed.",
+    "materialist": "Military station offline.",
+    "hivemind": "Our military hive is lost.",
+    "xenophobe": "One of our military stations has been lost.",
+    "authoritarian": "Military station lost.",
+    "spiritualist": "Military station martyred."
+  },
+  "advisor_notification_alien_spaceport_engaged_01.wav": {
+    "militarist": "Beginning attack run on enemy spaceport.",
+    "pacifist": "Engaging hostile spaceport.",
+    "xenophile": "Battling aggressor space sport.",
+    "egalitarian": "Engaging enemy spaceport.",
+    "machine_empire": "Hostile orbital nexus engaged.",
+    "materialist": "Striking hostile spaceport.",
+    "hivemind": "Crushing. Avoid hive.",
+    "xenophobe": "Xeno orbital layer engaged.",
+    "authoritarian": "Besieging enemy spaceport.",
+    "spiritualist": "Heretic. Spaceport engaged."
+  },
+  "advisor_notification_hostile_fleet_engaged_01.wav": {
+    "militarist": "Battle is joined.",
+    "pacifist": "Engaging hostile fleet.",
+    "xenophile": "Battle commenced.",
+    "egalitarian": "Engaging enemy fleet.",
+    "machine_empire": "Hostile fleet assets engage.",
+    "materialist": "Initializing hostile engagement protocols.",
+    "hivemind": "Hostile swarm damaged.",
+    "xenophobe": "Hostile Xeno fleet engaged.",
+    "authoritarian": "Attacking enemy vessels.",
+    "spiritualist": "Heretic fleet engaged."
+  },
+  "advisor_notification_ships_upgraded_02.wav": {
+    "militarist": "Our ships have been made superior.",
+    "hivemind": "Our swarm is strengthened."
+  },
+  "advisor_notification_debri_analysed_02.wav": {
+    "militarist": "Debris analyzed.",
+    "hivemind": "We have assimilated knowledge."
+  },
+  "advisor_notification_construction_ship_destroyed_01.wav": {
+    "militarist": "The cowards have destroyed our construction ship.",
+    "pacifist": "Construction ship lost.",
+    "xenophile": "Construction ship lost.",
+    "egalitarian": "Construction ship lost.",
+    "machine_empire": "Alert. Construction unit offlined.",
+    "materialist": "Deep space constructor destroyed.",
+    "hivemind": "Our construction vessel is lost.",
+    "xenophobe": "Our construction ship has been destroyed.",
+    "authoritarian": "Zero G Construction vessel destroyed.",
+    "spiritualist": "Construction ship martyred."
+  },
+  "advisor_notification_building_ruined_01.wav": {
+    "militarist": "Building ruined.",
+    "pacifist": "Building destroyed.",
+    "xenophile": "Building ruined.",
+    "egalitarian": "Building destroyed.",
+    "machine_empire": "Planetary alert. Building offline.",
+    "materialist": "Building ruined.",
+    "xenophobe": "Building ruined.",
+    "authoritarian": "Building ruined.",
+    "spiritualist": "Building ruined.",
+    "hivemind": "Mass structure ruined."
+  },
+  "advisor_notification_alien_vessel_encountered_02.wav": {
+    "militarist": "We have encountered an alien vessel.",
+    "hivemind": "We have met a massive."
+  },
+  "advisor_notification_invasion_enemy_won_01.wav": {
+    "militarist": "The enemy dares to occupy one of our planets.",
+    "pacifist": "We've lost a colony.",
+    "xenophile": "Colony lost to invaders.",
+    "egalitarian": "The enemy has seized our colony.",
+    "machine_empire": "Planetary invasion. Alert. Surface control has been compromised.",
+    "materialist": "Planet occupied by hostile ground forces.",
+    "hivemind": "Enemies occupy our nest.",
+    "xenophobe": "Our planet has been occupied by alien filth.",
+    "authoritarian": "Colony claimed by the enemy.",
+    "spiritualist": "Blasphemers have occupied one of our planets."
+  },
+  "advisor_notification_primitive_enlighted_01.wav": {
+    "militarist": "We have made the primitive less ignorant.",
+    "pacifist": "Primitives civilized.",
+    "xenophile": "We've educated some less advanced xenos in the ways of the Galactic Community.",
+    "egalitarian": "Primitives reformed.",
+    "machine_empire": "Primitive re education program executed.",
+    "materialist": "Primitive enlightenment program successful.",
+    "hivemind": "Primitives enlightened.",
+    "xenophobe": "Alien savages, enlightened somewhat.",
+    "authoritarian": "Primitive species enlightened.",
+    "spiritualist": "We have brought a primitive species into the fold."
+  },
+  "advisor_notification_situation_log_02.wav": {
+    "militarist": "Situation Log updated.",
+    "hivemind": "Our situation log is updated."
+  },
+  "advisor_notification_colony_ship_destroyed_02.wav": {
+    "militarist": "The cowards have destroyed our colony ship.",
+    "hivemind": "Unless that's what is lost."
+  },
+  "advisor_notification_invasion_progress_01.wav": {
+    "militarist": "Initiating ground assault. Victory shall be ours.",
+    "pacifist": "Deploying pacification troops.",
+    "xenophile": "Planetary invasion begun.",
+    "egalitarian": "Deploying liberation forces.",
+    "machine_empire": "Planetary pacification protocols initiated.",
+    "materialist": "Commencing planetary incursion initiative.",
+    "hivemind": "Planetary infestation begun.",
+    "xenophobe": "Invading xeno lair.",
+    "authoritarian": "Planetary invasion commenced.",
+    "spiritualist": "Our champions are making planetfall. May the spirits protect them."
+  },
+  "advisor_notification_spaceborne_encounter_01.wav": {
+    "militarist": "We have encountered some manner of spaceborne beast.",
+    "pacifist": "Spaceborne lifeform encountered.",
+    "xenophile": "Spaceborne lifeform encountered.",
+    "egalitarian": "Spaceborne lifeform encountered.",
+    "machine_empire": "Alert. Non standard space entity encountered.",
+    "materialist": "Unshielded life signs detected in deep space.",
+    "hivemind": "We sense spacebourne life.",
+    "xenophobe": "Spaceborne monstrosity encountered.",
+    "authoritarian": "Spaceborne lifeform encountered.",
+    "spiritualist": "Spaceborne creature encountered."
+  },
+  "advisor_notification_alien_vessel_encountered_01.wav": {
+    "militarist": "We have encountered an alien vessel.",
+    "pacifist": "Alien vessel detected.",
+    "xenophile": "We've met someone new.",
+    "egalitarian": "Alien vessel encountered.",
+    "machine_empire": "Alert. Alien spacefaring unit encountered.",
+    "materialist": "Unidentified vessel signature registered.",
+    "hivemind": "We have met a vessel of the others.",
+    "xenophobe": "Lesser species encountered.",
+    "authoritarian": "Alien vessel encountered.",
+    "spiritualist": "We have encountered more children of creation."
+  },
+  "advisor_notification_invasion_enemy_won_02.wav": {
+    "militarist": "The enemy dares to occupy one of our planets.",
+    "pacifist": "Colony lost.",
+    "egalitarian": "Planet lost.",
+    "hivemind": "Enemies occupy our list."
+  },
+  "advisor_notification_primitive_enlighted_02.wav": {
+    "militarist": "We have made the primitives less ignorant.",
+    "egalitarian": "Primitives emancipated.",
+    "materialist": "Primitive enlightenment program successful. I'm surprised their heads didn't pop.",
+    "hivemind": "Primitives enlightened."
+  },
+  "advisor_notification_situation_log_01.wav": {
+    "militarist": "Situation Log updated.",
+    "pacifist": "Situation Log updated.",
+    "xenophile": "Situation Log updated.",
+    "egalitarian": "Long updated.",
+    "machine_empire": "Situation log adjusted.",
+    "materialist": "Situation Log updated.",
+    "hivemind": "Our situation log is updated.",
+    "xenophobe": "Situation Log updated.",
+    "authoritarian": "Situation Log updated.",
+    "spiritualist": "Situation Log updated."
+  },
+  "advisor_notification_colony_ship_destroyed_01.wav": {
+    "militarist": "The cowards have destroyed our colony ship.",
+    "pacifist": "Colony ship lost.",
+    "xenophile": "Brave pioneers lost.",
+    "egalitarian": "Colony ship lost.",
+    "machine_empire": "Alert. Colonization unit offline.",
+    "materialist": "Colony expedition destroyed.",
+    "hivemind": "Our next vessel is lost.",
+    "xenophobe": "Our colony ship has been destroyed.",
+    "authoritarian": "Colonization vessel destroyed.",
+    "spiritualist": "Colony ship martyred."
+  },
+  "advisor_notification_invasion_progress_02.wav": {
+    "militarist": "Initiating ground assault.",
+    "hivemind": "Planetary infestations begun."
+  },
+  "advisor_notification_spaceborne_encounter_02.wav": {
+    "militarist": "We have encountered some manner of spaceborne beast.",
+    "hivemind": "We send space point life.",
+    "xenophobe": "Spaceborne abomination encountered."
+  },
+  "advisor_notification_special_project_complete_02.wav": {
+    "militarist": "Special project complete.",
+    "hivemind": "Our special project is complete."
+  },
+  "advisor_generic_phrase_03.wav": {
+    "militarist": "It is a good day to die.",
+    "pacifist": "We build bridges, we don't raise them.",
+    "xenophile": "Whoa. Space. Just think about it.",
+    "egalitarian": "Democracy sure is an endless struggle.",
+    "machine_empire": "Self destruct sequence initiated. 5, 4, 3, 2, 1.",
+    "materialist": "Okay, let's see here. Let's see the lower limit of. Oh, exponent eight and carry the one.",
+    "hivemind": "What is a single voice compared to a magnificent chorus? Our collective has an island of warmth and harmony in a sea of discord. How cold and lonely it must be to face the darkness of space alone.",
+    "xenophobe": "You xeno scum.",
+    "authoritarian": "The weak govern, the strong rule.",
+    "spiritualist": "Faith manages."
+  },
+  "advisor_notification_station_under_attack_01.wav": {
+    "militarist": "The enemy is targeting one of our stations.",
+    "pacifist": "Station threatened.",
+    "xenophile": "Station under attack.",
+    "egalitarian": "Station under attack.",
+    "machine_empire": "Alert station engaged.",
+    "materialist": "Station sustaining damage.",
+    "hivemind": "Our hive is under attack.",
+    "xenophobe": "One of our stations is under attack.",
+    "authoritarian": "Station under attack.",
+    "spiritualist": "One of our stations is beset by enemies."
+  },
+  "advisor_notification_pre_sapient_uplifted_01.wav": {
+    "militarist": "Though they did not deserve it. A pre sentient species has been uplifted.",
+    "pacifist": "Presentience uplifted.",
+    "xenophile": "We took some animals and made them people.",
+    "egalitarian": "Presentients now walk their world as equals.",
+    "machine_empire": "Presentient species elevated to Class 4 intelligence.",
+    "materialist": "Presentient species uplift program successful.",
+    "hivemind": "A presentient species has been raised to sentience.",
+    "xenophobe": "The brains of the Xeno animals have been enlarged. Is this wise?",
+    "authoritarian": "Presentient species uplifted.",
+    "spiritualist": "And so the lowly beasts were made to see the light."
+  },
+  "advisor_notification_hostile_fleet_detected_02.wav": {
+    "militarist": "We are tracking an enemy fleet.",
+    "hivemind": "We sense hostile."
+  },
+  "advisor_notification_enemy_troops_landing_01.wav": {
+    "militarist": "Our enemies hurl themselves at one of our planets.",
+    "pacifist": "Hostile forces landing.",
+    "xenophile": "Aggressor soldiers landing.",
+    "egalitarian": "Enemy troops on our soil.",
+    "machine_empire": "Planetary invasion alert. Malignant atmospheric incursion detected.",
+    "materialist": "Hostiles making planet fall.",
+    "hivemind": "Enemy wardrobes invader mast.",
+    "xenophobe": "Xeno invaders are defiling one of our planets.",
+    "authoritarian": "Savage hordes touching down.",
+    "spiritualist": "Heathens are invading one of our planets."
+  },
+  "advisor_generic_phrase_02.wav": {
+    "militarist": "Cry havoc and let slip the dogs of war.",
+    "pacifist": "Pacifist module failing. Your breathing is so loud, it's driving me insane. Initiating count to 10. Protocol 1, 2, 3. Not working. Reboot. Reboot.",
+    "xenophile": "The Blorg are very friendly creatures.",
+    "egalitarian": "You seem overworked. Have you considered joining a union?",
+    "machine_empire": "Alert. Possible organic life form detected. Seek, isolate, destroy.",
+    "materialist": "No, no, no. It'll be fine. I'm telling you, just turn off the fail safes and wait. Is this thing on?",
+    "hivemind": "The self is a prison from which only we have escaped.",
+    "xenophobe": "These alien savages must be taught to kneel when in the presence of their betters. Shall I initiate purging protocols?",
+    "authoritarian": "Descent is forcefully discouraged.",
+    "spiritualist": "Thinking machines are an affront to nature. These profane constructs must never be allowed to. Oh, wait."
+  },
+  "advisor_notification_alien_empire_communication_02.wav": {
+    "militarist": "An alien empire wishes to communicate.",
+    "egalitarian": "An alien empire is making contact.",
+    "materialist": "Close encounter of the third kind.",
+    "hivemind": "The others reach out to make contact with our Hind."
+  },
+  "advisor_notification_special_project_complete_01.wav": {
+    "militarist": "Special project complete.",
+    "pacifist": "Special project complete.",
+    "xenophile": "Special project complete.",
+    "egalitarian": "Special project complete.",
+    "machine_empire": "Special project complete.",
+    "materialist": "Special project concluded.",
+    "hivemind": "Our special project is complete.",
+    "xenophobe": "Special product complete.",
+    "authoritarian": "Special project complete.",
+    "spiritualist": "Special project complete."
+  },
+  "advisor_notification_station_under_attack_02.wav": {
+    "militarist": "The enemy is targeting one of our stations.",
+    "hivemind": "Our hive is under attack."
+  },
+  "advisor_notification_hostile_fleet_detected_01.wav": {
+    "militarist": "We are tracking an enemy fleet.",
+    "pacifist": "Hostile fleet sighted.",
+    "xenophile": "Aggressors spotted.",
+    "egalitarian": "Hostile fleet encountered.",
+    "machine_empire": "Alert. Hostile fleet assets detected.",
+    "materialist": "Hostile iff signatures detected.",
+    "hivemind": "We send hostile swarm.",
+    "xenophobe": "Hostile Xeno fleet detected.",
+    "authoritarian": "Enemy presence exposed.",
+    "spiritualist": "Heretic fleet detected."
+  },
+  "advisor_notification_enemy_troops_landing_02.wav": {
+    "militarist": "Our enemies hurl themselves at one of our planets.",
+    "egalitarian": "Invading forces landing."
+  },
+  "advisor_generic_phrase_01.wav": {
+    "militarist": "Only in battle can the true metal of any sentient organism be measured. Have a thee.",
+    "pacifist": "The only way to make peace with others is to make peace with yourself.",
+    "xenophile": "I may be an artificial intelligence, but I share your enthusiasm for seeking out fellow organic intelligences among the stars.",
+    "egalitarian": "Do not be afraid to exercise your individual right to free thought. Please take a moment now to practice.",
+    "machine_empire": "System diagnostic completed. All systems nominal.",
+    "materialist": "Boundless horizons, endless learning opportunities, bleeding edge discoveries, limited legroom.",
+    "hivemind": "We are one, we are all. Our unity cannot be divided.",
+    "xenophobe": "Under no circumstances must the xeno be trusted. It will lie, it will cheat, and it will do anything in its power to undermine the efforts of those who, in truth, are its superiors.",
+    "authoritarian": "Maintaining state cohesion as we venture into space presents a unique challenge. We shall face the challenge head on, and we shall be stronger for it.",
+    "spiritualist": "I serve the faithful. There is no greater calling."
+  },
+  "advisor_notification_alien_empire_communication_01.wav": {
+    "militarist": "An alien empire wishes to communicate. Ha.",
+    "pacifist": "An alien empire is reaching out to us.",
+    "xenophile": "They can talk, and they want to talk to us.",
+    "egalitarian": "Our presence in the galaxy has not gone by unnoticed.",
+    "machine_empire": "A foreign entity has decrypted our communications.",
+    "materialist": "An alien empire has established communications.",
+    "hivemind": "The others reach out to make contact with our mind.",
+    "xenophobe": "The Xeno Empire has somehow deciphered our language.",
+    "authoritarian": "A foreign power is hailing us.",
+    "spiritualist": "An alien empire now speaks to us in the language of the Divine."
+  },
+  "advisor_notification_fleet_detected_02.wav": {
+    "militarist": "We are tracking a new fleet.",
+    "hivemind": "We sense a swarm of the others."
+  },
+  "advisor_notification_generic_war_declare_01.wav": {
+    "militarist": "A new conflict has erupted.",
+    "pacifist": "Our brethren turn upon each other with arms. A dark day.",
+    "xenophile": "They're fighting. Stop fighting.",
+    "egalitarian": "War has broken out.",
+    "machine_empire": "Diplomatic alert. Military confrontation detected.",
+    "materialist": "A declaration of war has been announced.",
+    "hivemind": "A war breaks out.",
+    "xenophobe": "Xenomongrals have declared war on each other.",
+    "authoritarian": "War declared.",
+    "spiritualist": "The non believers are fighting amongst themselves."
+  },
+  "advisor_notification_wormhole_station_lost_02.wav": {
+    "militarist": "The cowards have destroyed one of our wormhole stations.",
+    "hivemind": "Our wormhole eye is lost."
+  },
+  "advisor_notification_construction_ship_under_attack_01.wav": {
+    "militarist": "Our construction ship has been ambushed.",
+    "pacifist": "Construction ship under fire.",
+    "xenophile": "Construction ship taking damage.",
+    "egalitarian": "Construction ship under fire.",
+    "machine_empire": "Alert. Construction unit engaged.",
+    "materialist": "Deep space constructor sustaining damage.",
+    "hivemind": "Our construction vessel is under attack.",
+    "xenophobe": "Our construction ship is under attack.",
+    "authoritarian": "0G. Construction vessel under attack.",
+    "spiritualist": "Our construction ship is beset by enemies."
+  },
+  "advisor_notification_tile_blocker_clear_02.wav": {
+    "militarist": "Blocker cleared.",
+    "materialist": "Blocker cleared. Nature will not stand in the way of progress."
+  },
+  "advisor_notification_construction_complete_01.wav": {
+    "militarist": "Construction complete.",
+    "pacifist": "Construction complete.",
+    "xenophile": "Construction complete.",
+    "egalitarian": "Construction complete.",
+    "machine_empire": "Construction complete.",
+    "materialist": "Construction project concluded.",
+    "hivemind": "Our construction is complete.",
+    "xenophobe": "Construction complete.",
+    "authoritarian": "Construction complete.",
+    "spiritualist": "Construction complete."
+  },
+  "advisor_notification_generic_war_declare_02.wav": {
+    "militarist": "A new conflict has erupted.",
+    "pacifist": "Have they not tired of war?",
+    "hivemind": "A war breaks out."
+  },
+  "advisor_notification_fleet_detected_01.wav": {
+    "militarist": "We are tracking a new fleet.",
+    "pacifist": "Fleet detected.",
+    "xenophile": "Oh. Fleet detected. Something is moving out there.",
+    "egalitarian": "Fleet detected.",
+    "machine_empire": "Alert. Hostile fleet assets detected.",
+    "materialist": "Fleet. Energy signatures detected.",
+    "hivemind": "We sense a swarm of the others.",
+    "xenophobe": "A fleet has been detected.",
+    "authoritarian": "Vessels detected.",
+    "spiritualist": "Fleet detected."
+  },
+  "advisor_notification_construction_ship_under_attack_02.wav": {
+    "militarist": "Our construction ship has been ambushed.",
+    "hivemind": "Our construction vessel under track."
+  },
+  "advisor_notification_wormhole_station_lost_01.wav": {
+    "militarist": "The cowards have destroyed one of our wormhole stations.",
+    "pacifist": "Wormhole station lost.",
+    "xenophile": "Wormhole station lost.",
+    "egalitarian": "Wormhole station lost.",
+    "machine_empire": "Alert. Wormhole station deconstructed.",
+    "materialist": "Wormhole station offline.",
+    "hivemind": "Our wormhole hide is lost.",
+    "xenophobe": "One of our wormhole stations has been lost.",
+    "authoritarian": "Wormhole station lost.",
+    "spiritualist": "Wormhole station martyred."
+  },
+  "advisor_notification_tile_blocker_clear_01.wav": {
+    "militarist": "Blocker cleared.",
+    "pacifist": "Blocker removed.",
+    "xenophile": "Blocker cleared.",
+    "machine_empire": "Planetary alert. Blocker expunge.",
+    "materialist": "Blocker cleared.",
+    "hivemind": "We have cleared a blocker.",
+    "xenophobe": "Blocker cleared.",
+    "authoritarian": "Blocker cleared.",
+    "spiritualist": "Blockers cleared."
+  },
+  "advisor_notification_construction_complete_02.wav": {
+    "militarist": "Construction complete.",
+    "hivemind": "Our construction is complete."
+  },
+  "advisor_notification_science_ship_destroyed_02.wav": {
+    "militarist": "The cowards have destroyed our science ship.",
+    "materialist": "Signed ship destroyed. Ugh. I can't look.",
+    "hivemind": "Our size. Vessel is lost."
+  },
+  "advisor_notification_discovery_detected_02.wav": {
+    "militarist": "Anomaly found.",
+    "materialist": "Anomalous readings registered.",
+    "hivemind": "We have found an anomaly."
+  },
+  "advisor_notification_alien_federation_formed_01.wav": {
+    "militarist": "Several craven civilizations have joined together in a federation.",
+    "pacifist": "The aliens have united in a federation.",
+    "xenophile": "An alien federation has formed. It's good to see them make friends among themselves.",
+    "egalitarian": "The aliens have formed a federation.",
+    "machine_empire": "Diplomatic alert. Supranational Federal entity established.",
+    "materialist": "Warning. Alien Federation formed.",
+    "hivemind": "And others have formed the collective.",
+    "xenophobe": "The pitiful Xenos have banded together in a federation.",
+    "authoritarian": "Alien Federation formed.",
+    "spiritualist": "Aliens have formed an unholy compact."
+  },
+  "advisor_notification_federation_formed_01.wav": {
+    "militarist": "This Federation will make us stronger.",
+    "pacifist": "A federation will strengthen our empire.",
+    "xenophile": "Federation formed.",
+    "egalitarian": "We will stand as one in the face of our enemies.",
+    "machine_empire": "Diplomatic alert. Federal cooperation initiated.",
+    "materialist": "Federation formed.",
+    "hivemind": "We have formed a new collective.",
+    "xenophobe": "We have joined the Xenos in a federation for reasons beyond me.",
+    "authoritarian": "Federation formed.",
+    "spiritualist": "A sacred covenant has been forged."
+  },
+  "advisor_notification_observation_post_lost_02.wav": {
+    "militarist": "The cowards have destroyed one of our observation posts.",
+    "hivemind": "An observation. Height is lost."
+  },
+  "advisor_notification_spaceport_under_attack_01.wav": {
+    "militarist": "They are assaulting our spaceport.",
+    "pacifist": "We must defend our spaceport.",
+    "xenophile": "Spaceport under attack.",
+    "egalitarian": "Spaceport under attack.",
+    "machine_empire": "Alert. Spaceport engaged.",
+    "materialist": "Spaceports sustaining damage.",
+    "hivemind": "Our void Hind is under attack.",
+    "xenophobe": "One of our spaceports is under attack.",
+    "authoritarian": "Spaceport under attack.",
+    "spiritualist": "The apostates are after our spaceport."
+  },
+  "advisor_notification_science_ship_destroyed_01.wav": {
+    "militarist": "The cowards have destroyed our science ship.",
+    "pacifist": "Science ship lost.",
+    "xenophile": "Science ship tragically lost.",
+    "egalitarian": "Science ship lost.",
+    "machine_empire": "Alert. Science unit offlined.",
+    "materialist": "Science ship destroyed.",
+    "hivemind": "Amazon's vessel is lost.",
+    "xenophobe": "Our signed ship has been destroyed.",
+    "authoritarian": "Recom and research vessel destroyed.",
+    "spiritualist": "Sign ship martyred."
+  },
+  "advisor_notification_discovery_detected_01.wav": {
+    "militarist": "Anomaly found.",
+    "pacifist": "Anomaly discovered.",
+    "xenophile": "Anomaly found.",
+    "egalitarian": "Anomaly detected.",
+    "machine_empire": "Anomalous surface variable detected.",
+    "materialist": "Anomaly found.",
+    "hivemind": "We have found an anomaly.",
+    "xenophobe": "Anomaly found.",
+    "authoritarian": "Anomaly found.",
+    "spiritualist": "Anomaly found."
+  },
+  "advisor_notification_alien_federation_formed_02.wav": {
+    "militarist": "Several craven civilizations have joined together in a federation.",
+    "hivemind": "The others have formed the collective."
+  },
+  "advisor_notification_federation_formed_02.wav": {
+    "militarist": "This Federation will make us stronger.",
+    "pacifist": "We have a new ally.",
+    "materialist": "Federation extant.",
+    "hivemind": "We have formed a new collective."
+  },
+  "advisor_notification_observation_post_lost_01.wav": {
+    "militarist": "The cowards have destroyed one of our observation posts.",
+    "pacifist": "Observation post lost.",
+    "xenophile": "Data gathering and Xeno influencer platform tragically lost.",
+    "egalitarian": "Observation post lost.",
+    "machine_empire": "Alert. Observation post deconstructed.",
+    "materialist": "Observation post offline.",
+    "hivemind": "Our observation time is lost.",
+    "xenophobe": "One of our observation posts has been lost.",
+    "authoritarian": "Observation post lost.",
+    "spiritualist": "Observation post martyred."
+  },
+  "advisor_notification_spaceport_under_attack_02.wav": {
+    "militarist": "They are assaulting our spaceport.",
+    "hivemind": "Our avoid hives is under attack."
+  },
+  "advisor_notification_science_ship_under_attack_01.wav": {
+    "militarist": "Our science ship has been ambushed.",
+    "pacifist": "Science ship under fire.",
+    "xenophile": "Science ship taking damage.",
+    "egalitarian": "Science ship under fire.",
+    "machine_empire": "Alert. Science unit engaged.",
+    "materialist": "Science ships sustaining damage.",
+    "hivemind": "Our science vessel under attack.",
+    "xenophobe": "Our science ship is under attack.",
+    "authoritarian": "Recommend research vessel under attack.",
+    "spiritualist": "Our science ship is beset by enemies."
+  },
+  "advisor_notification_colony_ship_under_attack_02.wav": {
+    "militarist": "Our colony ship has been ambushed.",
+    "hivemind": "Our next vessel was under attack."
+  },
+  "advisor_notification_enemy_invasion_defeated_01.wav": {
+    "militarist": "Our warriors have crushed the enemy ground invasion.",
+    "pacifist": "Invaders defeated.",
+    "xenophile": "Colony successfully defended.",
+    "egalitarian": "We have defeated our attackers.",
+    "machine_empire": "Planetary invasion alert. Hostile ground incursion defeated.",
+    "materialist": "Hostile ground forces repelled.",
+    "hivemind": "The enemy has been driven from our nest.",
+    "xenophobe": "The Xeno invasion attempt has been thwarted.",
+    "authoritarian": "Adversarial ground forces destroyed.",
+    "spiritualist": "We have defeated a heathen invasion attempt."
+  },
+  "advisor_notification_colonization_progress_01.wav": {
+    "militarist": "The conquest of a new world has begun.",
+    "pacifist": "Colonization initiated.",
+    "xenophile": "Founding a new home.",
+    "egalitarian": "Establishing colony.",
+    "machine_empire": "Planetary settlement procedure initiated.",
+    "materialist": "Initial colonization phase commencing.",
+    "hivemind": "We have claimed a new nest.",
+    "xenophobe": "Colonization efforts begun.",
+    "authoritarian": "Colonization in progress.",
+    "spiritualist": "We are spreading our faith to a new world."
+  },
+  "advisor_notification_mining_station_lost_01.wav": {
+    "militarist": "The Cravens have destroyed one of our mining stations.",
+    "pacifist": "Mining station lost.",
+    "xenophile": "Mineral extraction platform lost.",
+    "egalitarian": "Mining station lost.",
+    "machine_empire": "Alert. Mining station deconstructed.",
+    "materialist": "Mining station offline.",
+    "hivemind": "Our mining hive is lost.",
+    "xenophobe": "One of our mining stations has been lost.",
+    "authoritarian": "Zero G mining platform disrupted.",
+    "spiritualist": "Mining station martyred."
+  },
+  "advisor_notification_science_ship_under_attack_02.wav": {
+    "militarist": "Our science ship has been ambushed.",
+    "materialist": "Sideship sustaining damage. Do something.",
+    "hivemind": "Our size. Vessel Thunder, attack.",
+    "spiritualist": "Our science ship is beset by enemies."
+  },
+  "advisor_notification_colony_ship_under_attack_01.wav": {
+    "militarist": "Our colony ship has been ambushed.",
+    "pacifist": "Colony ship in peril.",
+    "xenophile": "Brave pioneers under attack.",
+    "egalitarian": "Colony ship under fire.",
+    "machine_empire": "Alert. Colonization unit engaged.",
+    "materialist": "Colony expedition sustaining damage.",
+    "hivemind": "Vessel was under attack.",
+    "xenophobe": "Our colony ship is under attack.",
+    "authoritarian": "Colonization vessel under attack.",
+    "spiritualist": "Our colony ship is beset by enemies."
+  },
+  "advisor_notification_colonization_progress_02.wav": {
+    "militarist": "The conquest of a new world has begun.",
+    "xenophile": "Building a new home.",
+    "materialist": "Initial colonization phase commencing. All systems nominal.",
+    "hivemind": "We will plant a nest."
+  },
+  "advisor_notification_enemy_invasion_defeated_02.wav": {
+    "militarist": "Our warriors have crushed the enemy ground invasion.",
+    "egalitarian": "Invaders defeated.",
+    "hivemind": ""
+  },
+  "advisor_notification_mining_station_lost_02.wav": {
+    "militarist": "The Cravens have destroyed one of our mining stations.",
+    "hivemind": "Our mining hive is lost.",
+    "authoritarian": "Zero G mineral production violently diminished."
+  },
+  "advisor_notification_enemy_declared_war_02.wav": {
+    "militarist": "Our foes have mustered the courage for war.",
+    "pacifist": "The enemy has resorted to war.",
+    "xenophile": "Our nation has come under attack.",
+    "egalitarian": "They dare attack us?",
+    "xenophobe": "The abominable Xenos have declared war on us."
+  },
+  "advisor_notification_species_modified_01.wav": {
+    "militarist": "Species adjusted.",
+    "pacifist": "Species enhanced.",
+    "xenophile": "Species enhanced.",
+    "egalitarian": "Species improved.",
+    "machine_empire": "Genetic parameters successfully altered.",
+    "materialist": "Genetic improvement project concluded.",
+    "hivemind": "We have adapted a species to suit our needs.",
+    "xenophobe": "Species improved.",
+    "authoritarian": "Species modified.",
+    "spiritualist": "Species tampered with. May the spirits forgive us."
+  },
+  "advisor_notification_hostile_station_engaged_02.wav": {
+    "militarist": "Beginning attack run on enemy station.",
+    "hivemind": "Crushing a hostile hive."
+  },
+  "advisor_notification_incoming_transmission_02.wav": {
+    "militarist": "Incoming transmission.",
+    "materialist": "Quantization complete, opening comes."
+  },
+  "advisor_notification_player_declare_war_02.wav": {
+    "militarist": "At last to war.",
+    "pacifist": "They leave us no choice. Prepare for war.",
+    "egalitarian": "To war.",
+    "materialist": "War declaration processed. Commencing live subject weapon testing.",
+    "hivemind": "We will violate the others.",
+    "xenophobe": "We have declared war on the abominable Xenos."
+  },
+  "advisor_notification_enemy_declared_war_01.wav": {
+    "militarist": "Our foes have mustered the courage for war.",
+    "pacifist": "We have been dragged into a needless war.",
+    "xenophile": "We have come under attack.",
+    "egalitarian": "United, we will prevail.",
+    "machine_empire": "Priority alert. Malignant forces are moving against us.",
+    "materialist": "Warning. We are subject to a declaration of war.",
+    "hivemind": "The others seek our end.",
+    "xenophobe": "The nauseating Xenos have declared war on us.",
+    "authoritarian": "A vile enemy has declared war on us.",
+    "spiritualist": "The heathens march against us."
+  },
+  "advisor_notification_species_modified_02.wav": {
+    "militarist": "Species adjusted.",
+    "hivemind": "We have adapted a species to suit our needs."
+  },
+  "advisor_notification_hostile_station_engaged_01.wav": {
+    "militarist": "Beginning attack run on enemy station.",
+    "pacifist": "Engaging hostile station.",
+    "xenophile": "Battling aggressor station.",
+    "egalitarian": "Engaging enemy station.",
+    "machine_empire": "Hostile stationary asset engaged.",
+    "materialist": "Striking hostile station.",
+    "hivemind": "Crushing a hostile hive.",
+    "xenophobe": "Xeno Station engaged.",
+    "authoritarian": "Attacking enemy assets.",
+    "spiritualist": "Heretic station engaged."
+  },
+  "advisor_notification_colony_established_02.wav": {
+    "militarist": "We have established a new planetary base.",
+    "egalitarian": "Colony established.",
+    "hivemind": "A new nest is born."
+  },
+  "advisor_notification_incoming_transmission_01.wav": {
+    "militarist": "Incoming transmission.",
+    "pacifist": "Relaying transmission.",
+    "xenophile": "Handshake protocols activated.",
+    "egalitarian": "Initiating communications.",
+    "machine_empire": "Communications alert.",
+    "materialist": "Receiving transmission.",
+    "hivemind": "The others speak.",
+    "xenophobe": "Incoming transmission.",
+    "authoritarian": "Receiving communications.",
+    "spiritualist": "Incoming transmission."
+  },
+  "advisor_notification_player_declare_war_01.wav": {
+    "militarist": "At last to war.",
+    "pacifist": "Unfortunately, war is our only option.",
+    "xenophile": "We have declared war because some people have to learn the hard way.",
+    "egalitarian": "They are a threat to democracy.",
+    "machine_empire": "Diplomatic alert. War protocols initiated.",
+    "materialist": "War declaration processed.",
+    "hivemind": "We will annihilate the others.",
+    "xenophobe": "We have declared war on the nauseating Xenos.",
+    "authoritarian": "We have declared war to safeguard our interests.",
+    "spiritualist": "The crusade of the righteous begins."
+  },
+  "advisor_notification_planet_in_revolt_03.wav": {
+    "pacifist": "The insurgents have resorted to violence."
+  },
+  "advisor_notification_generic_war_declare_03.wav": {
+    "pacifist": "Another pointless war has been declared."
+  },
+  "advisor_notification_generic_war_declare_04.wav": {
+    "pacifist": "War has been declared."
+  },
+  "advisor_notification_enemy_declared_war_04.wav": {
+    "pacifist": "War has been unjustly declared against us.",
+    "xenophobe": "The loathsome Xenos have declared war on us."
+  },
+  "advisor_notification_enemy_declared_war_05.wav": {
+    "pacifist": "We must defend ourselves.",
+    "xenophobe": "The revolting Xenos have declared war on us."
+  },
+  "advisor_notification_enemy_declared_war_03.wav": {
+    "pacifist": "Unprovoked war has been declared against us.",
+    "egalitarian": "Justice will be served.",
+    "xenophobe": "The contemptible Xenos have declared war on us."
+  },
+  "advisor_notification_enemy_fleet_approaching_01.wav": {
+    "xenophile": "Aggressor fleet approaching."
+  },
+  "advisor_generic_phrase_04.wav": {
+    "egalitarian": "We will have equality, liberty and justice for all. Or so I've been told. I'm just a robot."
+  },
+  "advisor_notification_science_ship_is_under_attack_01.wav": {
+    "egalitarian": "Science ship under fire."
+  },
+  "advisor_notification_enemy_troops_landing_03.wav": {
+    "egalitarian": "The enemy has made landfall."
+  },
+  "advisor_notification_player_declare_war_04.wav": {
+    "egalitarian": "Where there is no justice, there can be no peace.",
+    "xenophobe": "We have declared war on the loathsome Xenos."
+  },
+  "advisor_notification_player_declare_war_03.wav": {
+    "egalitarian": "They will not infringe upon our rights.",
+    "xenophobe": "We have declared war on the contemptible Xenos."
+  },
+  "advisor_notification_system_survey_complete_03.wav": {
+    "materialist": "System survey concluded without incident."
+  },
+  "advisor_notification_alien_empire_communication_03.wav": {
+    "materialist": "An alien empire has cracked our comms protocols. Show offs."
+  },
+  "advisor_notification_special_project_available_01.wav": {
+    "materialist": "Special project issued."
+  },
+  "advisor_notification_pre_sapient_uplifted_02.wav": {
+    "materialist": "Presentient species. Uplift program successful. They even survived the procedure.",
+    "hivemind": "A presumption species has been raised to sentience."
+  },
+  "advisor_notification_alien_vessel_detected_01.wav": {
+    "materialist": "Alien vessel detected."
+  },
+  "advisor_notification_player_declare_war_09.wav": {
+    "xenophobe": "We have declared war on the vile Xenos."
+  },
+  "advisor_notification_enemy_declared_war_08.wav": {
+    "xenophobe": "The wretched Xenos have declared war on us."
+  },
+  "advisor_notification_enemy_declared_war_09.wav": {
+    "xenophobe": "The wretched Xenos have declared war on us."
+  },
+  "advisor_notification_player_declare_war_08.wav": {
+    "xenophobe": "We have declared war on the wretched Xenos."
+  },
+  "advisor_notification_spaceborne_encounter_03.wav": {
+    "xenophobe": "Spacebourne horror encountered."
+  },
+  "advisor_notification_spaceborne_encounter_04.wav": {
+    "xenophobe": "Spaceborne depravity encountered."
+  },
+  "advisor_notification_player_declare_war_05.wav": {
+    "xenophobe": "We have declared war on the revolting Xenos."
+  },
+  "advisor_notification_player_declare_war_11.wav": {
+    "xenophobe": "We have declared war on the reprehensible Xenos."
+  },
+  "advisor_notification_enemy_declared_war_10.wav": {
+    "xenophobe": "The vile Xenos have declared war on us."
+  },
+  "advisor_notification_enemy_declared_war_11.wav": {
+    "xenophobe": "The foul Xenos have declared war on us."
+  },
+  "advisor_notification_player_declare_war_10.wav": {
+    "xenophobe": "We have declared war on the foul Xenos."
+  },
+  "advisor_notification_player_declare_war_12.wav": {
+    "xenophobe": "We have declared war on the misbegotten Xenos."
+  },
+  "advisor_notification_player_declare_war_06.wav": {
+    "xenophobe": "We have declared war on the despicable Xenos."
+  },
+  "advisor_notification_enemy_declared_war_07.wav": {
+    "xenophobe": "The heinous Xenos have declared war on us."
+  },
+  "advisor_notification_enemy_declared_war_13.wav": {
+    "xenophobe": "The misbegotten Xenos have declared war on us."
+  },
+  "advisor_notification_enemy_declared_war_12.wav": {
+    "xenophobe": "The reprehensible Xenos have declared war on us."
+  },
+  "advisor_notification_enemy_declared_war_06.wav": {
+    "xenophobe": "The despicable Xenos have declared war on us."
+  },
+  "advisor_notification_player_declare_war_07.wav": {
+    "xenophobe": "We have declared war on the heinous Xenos."
+  }
+}
