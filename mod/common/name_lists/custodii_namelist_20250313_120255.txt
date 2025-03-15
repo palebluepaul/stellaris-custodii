@@ -8,82 +8,72 @@ CUSTODII_NAME_LIST = {
     should_name_home_system_planets = no
 
     # Names start here
+
     
     # Ship names by class
     ship_names = {
-        # Names - Generic ship names
+        # Generic ship names (used for any ship class if specific class not defined)
         generic = {
             "Ship Name 1" "Ship Name 2" "Ship Name 3"
             # ... more ship names
         }
         
-        # Names - Specific ship class: Corvette
+        # Specific ship classes
         corvette = {
             "Corvette Name 1" "Corvette Name 2" "Corvette Name 3"
             # ... more corvette names
         }
         
-        # Names - Specific ship class: Destroyer
         destroyer = {
             "Destroyer Name 1" "Destroyer Name 2" "Destroyer Name 3"
             # ... more destroyer names
         }
         
-        # Names - Specific ship class: Cruiser
         cruiser = {
             "Cruiser Name 1" "Cruiser Name 2" "Cruiser Name 3"
             # ... more cruiser names
         }
         
-        # Names - Specific ship class: Battleship
         battleship = {
             "Battleship Name 1" "Battleship Name 2" "Battleship Name 3"
             # ... more battleship names
         }
         
-        # Names - Specific ship class: Titan
         titan = {
             "Titan Name 1" "Titan Name 2" "Titan Name 3"
             # ... more titan names
         }
         
-        # Names - Specific ship class: Colossus
         colossus = {
             "Colossus Name 1" "Colossus Name 2" "Colossus Name 3"
             # ... more colossus names
         }
         
-        # Names - Specific ship class: Juggernaut
         juggernaut = {
             "Juggernaut Name 1" "Juggernaut Name 2" "Juggernaut Name 3"
             # ... more juggernaut names
         }
         
-        # Names - Specific ship class: Transport
         transport = {
             "Transport Name 1" "Transport Name 2" "Transport Name 3"
             # ... more transport names
         }
         
-        # Names - Specific ship class: Constructor
         constructor = {
             "Constructor Name 1" "Constructor Name 2" "Constructor Name 3"
             # ... more constructor names
         }
         
-        # Names - Specific ship class: Science
         science = {
             "Science Name 1" "Science Name 2" "Science Name 3"
             # ... more science ship names
         }
         
-        # Names - Specific ship class: Colonizer
         colonizer = {
             "Colonizer Name 1" "Colonizer Name 2" "Colonizer Name 3"
             # ... more colonizer names
         }
         
-        # Names - Specific ship class: Sponsored Colonizer
         sponsored_colonizer = {
             "Sponsored Colonizer Name 1" "Sponsored Colonizer Name 2" "Sponsored Colonizer Name 3"
             # ... more sponsored colonizer names
@@ -100,31 +90,26 @@ CUSTODII_NAME_LIST = {
             # ... more small AI ship names
         }
         
-        # Names - Specific ship class: Battlecruiser
         battlecruiser = {
             "Battlecruiser Name 1" "Battlecruiser Name 2" "Battlecruiser Name 3"
             # ... more battlecruiser names
         }
         
-        # Names - Specific ship class: Dreadnought
         dreadnought = {
             "Dreadnought Name 1" "Dreadnought Name 2" "Dreadnought Name 3"
             # ... more dreadnought names
         }
         
-        # Names - Specific ship class: Flagship
         flagship = {
             "Flagship Name 1" "Flagship Name 2" "Flagship Name 3"
             # ... more flagship names
         }
         
-        # Names - Specific ship class: Exploration Ship
         explorationship = {
             "Exploration Ship Name 1" "Exploration Ship Name 2" "Exploration Ship Name 3"
             # ... more exploration ship names
         }
         
-        # Names - Specific ship class: Carrier
         carrier = {
             "Carrier Name 1" "Carrier Name 2" "Carrier Name 3"
             # ... more carrier names
@@ -133,18 +118,16 @@ CUSTODII_NAME_LIST = {
     
     # Fleet names
     fleet_names = {
-        # Names - Random fleet names
         random_names = {
             "Fleet Name 1" "Fleet Name 2" "Fleet Name 3"
             # ... more fleet names
         }
-        # Names - Sequential fleet names
         sequential_name = "%O% Fleet" # %O% is replaced with ordinal numbers (1st, 2nd, etc.)
     }
     
     # Planet names by class
     planet_names = {
-        # Names - Generic planet names
+        # Generic planet names (used for any planet class if specific class not defined)
         generic = {
             names = {
                 "Planet Name 1" "Planet Name 2" "Planet Name 3"

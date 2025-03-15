@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "parent": null,
+    "description": "Station names by type",
+    "source": "CUSTODII_NAME_LIST"
+  },
+  "types": {
+    "mining_station": {
+      "sequential_pattern": "%O% Mining Station",
+      "parent": null
+    },
+    "research_station": {
+      "sequential_pattern": "%O% Research Station",
+      "parent": null
+    },
+    "observation_station": {
+      "sequential_pattern": "%O% Observation Post",
+      "parent": null
+    },
+    "starbase_outpost": {
+      "sequential_pattern": "%O% Outpost",
+      "parent": null
+    },
+    "starbase_citadel": {
+      "sequential_pattern": "%O% Citadel",
+      "parent": null
+    }
+  }
+} 

@@ -1,0 +1,29 @@
+{
+  "metadata": {
+    "parent": null,
+    "description": "Planet names by class",
+    "source": "CUSTODII_NAME_LIST"
+  },
+  "classes": {
+    "generic": [
+      "Planet Name 1",
+      "Planet Name 2",
+      "Planet Name 3"
+    ],
+    "pc_continental": [
+      "Continental Planet Name 1",
+      "Continental Planet Name 2",
+      "Continental Planet Name 3"
+    ],
+    "pc_desert": [
+      "Desert Planet Name 1",
+      "Desert Planet Name 2",
+      "Desert Planet Name 3"
+    ],
+    "pc_ocean": [
+      "Ocean Planet Name 1",
+      "Ocean Planet Name 2",
+      "Ocean Planet Name 3"
+    ]
+  }
+} 

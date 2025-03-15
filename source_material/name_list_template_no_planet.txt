@@ -1,0 +1,332 @@
+CUSTODII_NAME_LIST = {
+    key = "CUSTODII_NAME_LIST"
+    category = "Machine"
+    
+    # Properties
+    selectable = { always = yes }
+    randomized = no
+    should_name_home_system_planets = no
+
+    # Names start here
+    
+    # Ship names by class
+    ship_names = {
+        # Names - Generic ship names
+        generic = {
+            "Ship Name 1" "Ship Name 2" "Ship Name 3"
+            # ... more ship names
+        }
+        
+        # Names - Specific ship class: Corvette
+        corvette = {
+            "Corvette Name 1" "Corvette Name 2" "Corvette Name 3"
+            # ... more corvette names
+        }
+        
+        # Names - Specific ship class: Destroyer
+        destroyer = {
+            "Destroyer Name 1" "Destroyer Name 2" "Destroyer Name 3"
+            # ... more destroyer names
+        }
+        
+        # Names - Specific ship class: Cruiser
+        cruiser = {
+            "Cruiser Name 1" "Cruiser Name 2" "Cruiser Name 3"
+            # ... more cruiser names
+        }
+        
+        # Names - Specific ship class: Battleship
+        battleship = {
+            "Battleship Name 1" "Battleship Name 2" "Battleship Name 3"
+            # ... more battleship names
+        }
+        
+        # Names - Specific ship class: Titan
+        titan = {
+            "Titan Name 1" "Titan Name 2" "Titan Name 3"
+            # ... more titan names
+        }
+        
+        # Names - Specific ship class: Colossus
+        colossus = {
+            "Colossus Name 1" "Colossus Name 2" "Colossus Name 3"
+            # ... more colossus names
+        }
+        
+        # Names - Specific ship class: Juggernaut
+        juggernaut = {
+            "Juggernaut Name 1" "Juggernaut Name 2" "Juggernaut Name 3"
+            # ... more juggernaut names
+        }
+        
+        # Names - Specific ship class: Transport
+        transport = {
+            "Transport Name 1" "Transport Name 2" "Transport Name 3"
+            # ... more transport names
+        }
+        
+        # Names - Specific ship class: Constructor
+        constructor = {
+            "Constructor Name 1" "Constructor Name 2" "Constructor Name 3"
+            # ... more constructor names
+        }
+        
+        # Names - Specific ship class: Science
+        science = {
+            "Science Name 1" "Science Name 2" "Science Name 3"
+            # ... more science ship names
+        }
+        
+        # Names - Specific ship class: Colonizer
+        colonizer = {
+            "Colonizer Name 1" "Colonizer Name 2" "Colonizer Name 3"
+            # ... more colonizer names
+        }
+        
+        # Names - Specific ship class: Sponsored Colonizer
+        sponsored_colonizer = {
+            "Sponsored Colonizer Name 1" "Sponsored Colonizer Name 2" "Sponsored Colonizer Name 3"
+            # ... more sponsored colonizer names
+        }
+        
+        # Machine-specific ship classes
+        large_ship_ai = {
+            "Large AI Ship Name 1" "Large AI Ship Name 2" "Large AI Ship Name 3"
+            # ... more large AI ship names
+        }
+        
+        small_ship_ai = {
+            "Small AI Ship Name 1" "Small AI Ship Name 2" "Small AI Ship Name 3"
+            # ... more small AI ship names
+        }
+        
+        # Names - Specific ship class: Battlecruiser
+        battlecruiser = {
+            "Battlecruiser Name 1" "Battlecruiser Name 2" "Battlecruiser Name 3"
+            # ... more battlecruiser names
+        }
+        
+        # Names - Specific ship class: Dreadnought
+        dreadnought = {
+            "Dreadnought Name 1" "Dreadnought Name 2" "Dreadnought Name 3"
+            # ... more dreadnought names
+        }
+        
+        # Names - Specific ship class: Flagship
+        flagship = {
+            "Flagship Name 1" "Flagship Name 2" "Flagship Name 3"
+            # ... more flagship names
+        }
+        
+        # Names - Specific ship class: Exploration Ship
+        explorationship = {
+            "Exploration Ship Name 1" "Exploration Ship Name 2" "Exploration Ship Name 3"
+            # ... more exploration ship names
+        }
+        
+        # Names - Specific ship class: Carrier
+        carrier = {
+            "Carrier Name 1" "Carrier Name 2" "Carrier Name 3"
+            # ... more carrier names
+        }
+    }
+    
+    # Fleet names
+    fleet_names = {
+        # Names - Random fleet names
+        random_names = {
+            "Fleet Name 1" "Fleet Name 2" "Fleet Name 3"
+            # ... more fleet names
+        }
+        # Names - Sequential fleet names
+        sequential_name = "%O% Fleet" # %O% is replaced with ordinal numbers (1st, 2nd, etc.)
+    }
+    
+    # Specific ruler names (alternative to using character_names for rulers)
+    ruler_names = {
+        default = {
+            full_names = {
+                "Ruler Full Name 1" "Ruler Full Name 2" "Ruler Full Name 3"
+                # ... more ruler full names
+            }
+        }
+    }
+    
+    # Army names
+    army_names = {
+        # Generic armies (fallback)
+        generic = {
+            random_names = {
+                "Army Name 1" "Army Name 2" "Army Name 3"
+                # ... more army names
+            }
+            sequential_name = "%O% Army"
+        }
+        
+        # Defense armies
+        defense_army = {
+            sequential_name = "%O% Defense Force"
+        }
+        
+        # Assault armies
+        assault_army = {
+            sequential_name = "%O% Assault Force"
+        }
+        
+        # Slave armies
+        slave_army = {
+            sequential_name = "%O% Conscript Force"
+        }
+        
+        # Clone armies
+        clone_army = {
+            sequential_name = "%O% Clone Battalion"
+        }
+        
+        # Robotic armies
+        robotic_army = {
+            sequential_name = "%O% Robotic Legion"
+        }
+        
+        # Android armies
+        android_army = {
+            sequential_name = "%O% Android Legion"
+        }
+        
+        # Psionic armies
+        psionic_army = {
+            sequential_name = "%O% Psionic Division"
+        }
+        
+        # Xenomorph armies
+        xenomorph_army = {
+            sequential_name = "%O% Xenomorph Swarm"
+        }
+        
+        # Gene warrior armies
+        gene_warrior_army = {
+            sequential_name = "%O% Gene Warrior Battalion"
+        }
+        
+        # Undead armies
+        undead_army = {
+            sequential_name = "%O% Undead Legion"
+        }
+        
+        # Machine-specific armies
+        machine_defense = {
+            sequential_name = "%O% Machine Defense Unit"
+        }
+        
+        # Occupation armies
+        occupation_army = {
+            sequential_name = "%O% Occupation Force"
+        }
+        
+        # Machine occupation armies
+        individual_machine_occupation_army = {
+            sequential_name = "%O% Machine Occupation Unit"
+        }
+        
+        # Robotic occupation armies
+        robotic_occupation_army = {
+            sequential_name = "%O% Robotic Occupation Unit"
+        }
+        
+        # Machine occupation armies
+        machine_occupation_army = {
+            sequential_name = "%O% Machine Occupation Force"
+        }
+        
+        # Robotic defense armies
+        robotic_defense_army = {
+            sequential_name = "%O% Robotic Defense Unit"
+        }
+        
+        # Primitive armies
+        primitive_army = {
+            sequential_name = "%O% Primitive Force"
+        }
+        
+        # Industrial armies
+        industrial_army = {
+            sequential_name = "%O% Industrial Army"
+        }
+        
+        # Post-atomic armies
+        postatomic_army = {
+            sequential_name = "%O% Post-Atomic Force"
+        }
+        
+        # Warpling armies
+        warpling_army = {
+            sequential_name = "%O% Warpling Horde"
+        }
+    }
+    
+    # Station names
+    # Mining stations
+    mining_station = {
+        sequential_name = "%O% Mining Station"
+    }
+    
+    # Research stations
+    research_station = {
+        sequential_name = "%O% Research Station"
+    }
+    
+    # Observation stations
+    observation_station = {
+        sequential_name = "%O% Observation Post"
+    }
+    
+    # Starbases by level
+    starbase_outpost = {
+        sequential_name = "%O% Outpost"
+    }
+    
+    starbase_starport = {
+        sequential_name = "%O% Starport"
+    }
+    
+    starbase_starhold = {
+        sequential_name = "%O% Starhold"
+    }
+    
+    starbase_starfortress = {
+        sequential_name = "%O% Star Fortress"
+    }
+    
+    starbase_citadel = {
+        sequential_name = "%O% Citadel"
+    }
+    
+    # Military stations
+    military_station_small = {
+        sequential_name = "%O% Defense Platform"
+    }
+    
+    military_station_medium = {
+        sequential_name = "%O% Defense Station"
+    }
+    
+    military_station_large = {
+        sequential_name = "%O% Fortress"
+    }
+    
+    # Ion cannons
+    ion_cannon = {
+        sequential_name = "%O% Ion Cannon"
+    }
+    
+    # Asteroid naming
+    asteroid_prefix = {
+        "AST-" "MNR-" "RCK-" "A-" "M-"
+        # ... more asteroid prefixes
+    }
+    
+    asteroid_postfix = {
+        "001" "002" "003" "A" "B" "C" "Alpha" "Beta" "Gamma"
+        # ... more asteroid postfixes
+    }
+} 

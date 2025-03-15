@@ -1,0 +1,642 @@
+########## CUSTODII ADVISOR VOICE TEMPLATE ##########
+# This file contains all possible sound triggers for the Custodii advisor voice
+# Each trigger is commented with its meaning and context
+# Frequency information indicates how often each event typically occurs in a Stellaris game
+
+########## ADVISOR VOICE TYPE ##########
+soundeffect = {
+    name = advisor_voice_type_custodii
+    sounds = {
+        sound = advisor_voice_custodii_01
+        sound = advisor_voice_custodii_02
+        sound = advisor_voice_custodii_03
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## GENERIC PHRASES (RANDOM ADVISOR COMMENTS) ##########
+# Very rare - These are played randomly when clicking the advisor
+soundeffect = {
+    name = advisor_generic_phrase_custodii
+    sounds = {
+        # Generic philosophical statement about the Custodii's mission
+        sound = advisor_generic_phrase_custodii_01
+        # Statement about calculated compassion and structured harmony
+        sound = advisor_generic_phrase_custodii_02
+        # Comment about the benevolent guardianship of organic life
+        sound = advisor_generic_phrase_custodii_03
+        # Statement about the Custodii's elegant, structured approach
+        sound = advisor_generic_phrase_custodii_04
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## SCIENCE SHIP NOTIFICATIONS ##########
+# Very frequent - Played when a system survey is completed
+soundeffect = {
+    name = advisor_notification_system_survey_complete_custodii
+    sounds = {
+        sound = advisor_notification_system_survey_complete_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a science ship is destroyed
+soundeffect = {
+    name = advisor_notification_science_ship_destroyed_custodii
+    sounds = {
+        sound = advisor_notification_science_ship_destroyed_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a science ship is under attack
+soundeffect = {
+    name = advisor_notification_science_ship_under_attack_custodii
+    sounds = {
+        sound = advisor_notification_science_ship_under_attack_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## CONSTRUCTION SHIP NOTIFICATIONS ##########
+# Very frequent - Played when construction is completed
+soundeffect = {
+    name = advisor_notification_construction_complete_custodii
+    sounds = {
+        sound = advisor_notification_construction_complete_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a construction ship is destroyed
+soundeffect = {
+    name = advisor_notification_construction_ship_destroyed_custodii
+    sounds = {
+        sound = advisor_notification_construction_ship_destroyed_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a construction ship is under attack
+soundeffect = {
+    name = advisor_notification_construction_ship_under_attack_custodii
+    sounds = {
+        sound = advisor_notification_construction_ship_under_attack_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## COLONY SHIP NOTIFICATIONS ##########
+# Frequent - Played when a colony is established
+soundeffect = {
+    name = advisor_notification_colony_established_custodii
+    sounds = {
+        sound = advisor_notification_colony_established_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a colony ship is under attack
+soundeffect = {
+    name = advisor_notification_colony_ship_under_attack_custodii
+    sounds = {
+        sound = advisor_notification_colony_ship_under_attack_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a colony ship is destroyed
+soundeffect = {
+    name = advisor_notification_colony_ship_destroyed_custodii
+    sounds = {
+        sound = advisor_notification_colony_ship_destroyed_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## SPACEPORT NOTIFICATIONS ##########
+# Rare - Played when a spaceport is lost
+soundeffect = {
+    name = advisor_notification_spaceport_lost_custodii
+    sounds = {
+        sound = advisor_notification_spaceport_lost_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Frequent - Played when a spaceport is under attack
+soundeffect = {
+    name = advisor_notification_spaceport_under_attack_custodii
+    sounds = {
+        sound = advisor_notification_spaceport_under_attack_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## INVASION NOTIFICATIONS ##########
+# Rare - Played when an enemy invasion is defeated
+soundeffect = {
+    name = advisor_notification_enemy_invasion_defeated_custodii
+    sounds = {
+        sound = advisor_notification_enemy_invasion_defeated_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when an enemy successfully invades one of your planets
+soundeffect = {
+    name = advisor_notification_invasion_enemy_won_custodii
+    sounds = {
+        sound = advisor_notification_invasion_enemy_won_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when your invasion fails
+soundeffect = {
+    name = advisor_notification_invasion_failed_custodii
+    sounds = {
+        sound = advisor_notification_invasion_failed_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when an invasion is in progress
+soundeffect = {
+    name = advisor_notification_invasion_progress_custodii
+    sounds = {
+        sound = advisor_notification_invasion_progress_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when your invasion succeeds
+soundeffect = {
+    name = advisor_notification_invasion_success_custodii
+    sounds = {
+        sound = advisor_notification_invasion_success_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## STATION NOTIFICATIONS ##########
+# Rare - Played when a military station is lost
+soundeffect = {
+    name = advisor_notification_military_station_lost_custodii
+    sounds = {
+        sound = advisor_notification_military_station_lost_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a mining station is lost
+soundeffect = {
+    name = advisor_notification_mining_station_lost_custodii
+    sounds = {
+        sound = advisor_notification_mining_station_lost_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a research station is lost
+soundeffect = {
+    name = advisor_notification_research_station_lost_custodii
+    sounds = {
+        sound = advisor_notification_research_station_lost_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Very rare - Played when an observation post is lost
+soundeffect = {
+    name = advisor_notification_observation_post_lost_custodii
+    sounds = {
+        sound = advisor_notification_observation_post_lost_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a frontier outpost is lost
+soundeffect = {
+    name = advisor_notification_frontier_outpost_lost_custodii
+    sounds = {
+        sound = advisor_notification_frontier_outpost_lost_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Very rare - Played when a wormhole station is lost
+soundeffect = {
+    name = advisor_notification_wormhole_station_lost_custodii
+    sounds = {
+        sound = advisor_notification_wormhole_station_lost_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Frequent - Played when a station is under attack
+soundeffect = {
+    name = advisor_notification_station_under_attack_custodii
+    sounds = {
+        sound = advisor_notification_station_under_attack_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## FLEET AND COMBAT NOTIFICATIONS ##########
+# Frequent - Played when a hostile fleet is detected
+soundeffect = {
+    name = advisor_notification_hostile_fleet_detected_custodii
+    sounds = {
+        sound = advisor_notification_hostile_fleet_detected_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Frequent - Played when engaging a hostile fleet
+soundeffect = {
+    name = advisor_notification_hostile_fleet_engaged_custodii
+    sounds = {
+        sound = advisor_notification_hostile_fleet_engaged_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a fleet is destroyed
+soundeffect = {
+    name = advisor_notification_fleet_destroyed_custodii
+    sounds = {
+        sound = advisor_notification_fleet_destroyed_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Frequent - Played when evading a hostile fleet
+soundeffect = {
+    name = advisor_notification_evade_hostile_fleet_custodii
+    sounds = {
+        sound = advisor_notification_evade_hostile_fleet_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when engaging an alien spaceport
+soundeffect = {
+    name = advisor_notification_alien_spaceport_engaged_custodii
+    sounds = {
+        sound = advisor_notification_alien_spaceport_engaged_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Frequent - Played when engaging a hostile station
+soundeffect = {
+    name = advisor_notification_hostile_station_engaged_custodii
+    sounds = {
+        sound = advisor_notification_hostile_station_engaged_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Very frequent - Played when a new fleet is detected
+soundeffect = {
+    name = advisor_notification_fleet_detected_custodii
+    sounds = {
+        sound = advisor_notification_fleet_detected_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## PLANET NOTIFICATIONS ##########
+# Very rare - Played when a planet is in revolt
+soundeffect = {
+    name = advisor_notification_planet_in_revolt_custodii
+    sounds = {
+        sound = advisor_notification_planet_in_revolt_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when enemy troops are landing on your planet
+soundeffect = {
+    name = advisor_notification_enemy_troops_landing_custodii
+    sounds = {
+        sound = advisor_notification_enemy_troops_landing_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a building is ruined
+soundeffect = {
+    name = advisor_notification_building_ruined_custodii
+    sounds = {
+        sound = advisor_notification_building_ruined_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Frequent - Played when colonization is in progress
+soundeffect = {
+    name = advisor_notification_colonization_progress_custodii
+    sounds = {
+        sound = advisor_notification_colonization_progress_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Frequent - Played when a tile blocker is cleared
+soundeffect = {
+    name = advisor_notification_tile_blocker_clear_custodii
+    sounds = {
+        sound = advisor_notification_tile_blocker_clear_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## RESEARCH AND PROJECTS ##########
+# Very frequent - Played when research is completed
+soundeffect = {
+    name = advisor_notification_research_complete_custodii
+    sounds = {
+        sound = advisor_notification_research_complete_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Frequent - Played when a special project is completed
+soundeffect = {
+    name = advisor_notification_special_project_complete_custodii
+    sounds = {
+        sound = advisor_notification_special_project_complete_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Very frequent - Played when the situation log is updated
+soundeffect = {
+    name = advisor_notification_situation_log_custodii
+    sounds = {
+        sound = advisor_notification_situation_log_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Very frequent - Played when an anomaly is discovered
+soundeffect = {
+    name = advisor_notification_discovery_detected_custodii
+    sounds = {
+        sound = advisor_notification_discovery_detected_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Frequent - Played when debris is analyzed
+soundeffect = {
+    name = advisor_notification_debris_analysed_custodii
+    sounds = {
+        sound = advisor_notification_debris_analysed_custodii_01
+    }
+    volume = 0.35
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## DIPLOMACY AND FIRST CONTACT ##########
+# Frequent - Played when an alien empire initiates communication
+soundeffect = {
+    name = advisor_notification_alien_empire_communication_custodii
+    sounds = {
+        sound = advisor_notification_alien_empire_communication_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when an alien federation is formed
+soundeffect = {
+    name = advisor_notification_alien_federation_formed_custodii
+    sounds = {
+        sound = advisor_notification_alien_federation_formed_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Frequent - Played when an alien vessel is encountered
+soundeffect = {
+    name = advisor_notification_alien_vessel_encountered_custodii
+    sounds = {
+        sound = advisor_notification_alien_vessel_encountered_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a federation is formed
+soundeffect = {
+    name = advisor_notification_federation_formed_custodii
+    sounds = {
+        sound = advisor_notification_federation_formed_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Very frequent - Played when receiving a transmission
+soundeffect = {
+    name = advisor_notification_incoming_transmission_custodii
+    sounds = {
+        sound = advisor_notification_incoming_transmission_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## WAR NOTIFICATIONS ##########
+# Rare - Played when an enemy declares war on you
+soundeffect = {
+    name = advisor_notification_enemy_declared_war_custodii
+    sounds = {
+        sound = advisor_notification_enemy_declared_war_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when you declare war
+soundeffect = {
+    name = advisor_notification_player_declare_war_custodii
+    sounds = {
+        sound = advisor_notification_player_declare_war_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Frequent - Played when war is declared between other empires
+soundeffect = {
+    name = advisor_notification_generic_war_declare_custodii
+    sounds = {
+        sound = advisor_notification_generic_war_declare_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+########## MISC NOTIFICATIONS ##########
+# Frequent - Played when ships are upgraded
+soundeffect = {
+    name = advisor_notification_ships_upgraded_custodii
+    sounds = {
+        sound = advisor_notification_ships_upgraded_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Very rare - Played when a primitive species is enlightened
+soundeffect = {
+    name = advisor_notification_primitive_enlighted_custodii
+    sounds = {
+        sound = advisor_notification_primitive_enlighted_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Very rare - Played when a pre-sapient species is uplifted
+soundeffect = {
+    name = advisor_notification_pre_sapient_uplifted_custodii
+    sounds = {
+        sound = advisor_notification_pre_sapient_uplifted_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when a species is modified
+soundeffect = {
+    name = advisor_notification_species_modified_custodii
+    sounds = {
+        sound = advisor_notification_species_modified_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Rare - Played when an unidentified object is detected
+soundeffect = {
+    name = advisor_notification_unidentified_object_custodii
+    sounds = {
+        sound = advisor_notification_unidentified_object_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+}
+
+# Frequent - Played when a spaceborne entity is encountered
+soundeffect = {
+    name = advisor_notification_spaceborne_encounter_custodii
+    sounds = {
+        sound = advisor_notification_spaceborne_encounter_custodii_01
+    }
+    volume = 0.45
+    max_audible = 1
+    max_audible_behaviour = fail
+} 

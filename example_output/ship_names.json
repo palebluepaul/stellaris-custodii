@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "parent": null,
+    "description": "Ship names by class",
+    "source": "CUSTODII_NAME_LIST"
+  },
+  "classes": {
+    "generic": [
+      "Ship Name 1",
+      "Ship Name 2",
+      "Ship Name 3"
+    ],
+    "corvette": [
+      "Corvette Name 1",
+      "Corvette Name 2",
+      "Corvette Name 3"
+    ],
+    "destroyer": [
+      "Destroyer Name 1",
+      "Destroyer Name 2",
+      "Destroyer Name 3"
+    ]
+  }
+} 
