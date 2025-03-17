@@ -1,0 +1,8 @@
+﻿advisor_custodii = {
+	name = "SETTINGS_VOICE_TYPE_advisor_voice_custodii"
+	icon = "gfx/portraits/advisors/machine_advisor.dds"
+	
+	weight = {
+		base = 0
+	}
+}

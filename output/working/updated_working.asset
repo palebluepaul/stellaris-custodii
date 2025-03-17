@@ -1,0 +1,2054 @@
+sound = {
+	name = "advisor_notification_colony_ship_destroyed_03"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_destroyed_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_empire_communication_05"
+	file = "vo/custodii-advisor/advisor_notification_alien_empire_communication_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_empire_communication_06"
+	file = "vo/custodii-advisor/advisor_notification_alien_empire_communication_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_empire_communication_07"
+	file = "vo/custodii-advisor/advisor_notification_alien_empire_communication_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_empire_communication_08"
+	file = "vo/custodii-advisor/advisor_notification_alien_empire_communication_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_empire_communication_09"
+	file = "vo/custodii-advisor/advisor_notification_alien_empire_communication_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_empire_communication_10"
+	file = "vo/custodii-advisor/advisor_notification_alien_empire_communication_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_federation_formed_05"
+	file = "vo/custodii-advisor/advisor_notification_alien_federation_formed_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_federation_formed_06"
+	file = "vo/custodii-advisor/advisor_notification_alien_federation_formed_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_federation_formed_07"
+	file = "vo/custodii-advisor/advisor_notification_alien_federation_formed_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_federation_formed_08"
+	file = "vo/custodii-advisor/advisor_notification_alien_federation_formed_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_federation_formed_09"
+	file = "vo/custodii-advisor/advisor_notification_alien_federation_formed_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_federation_formed_10"
+	file = "vo/custodii-advisor/advisor_notification_alien_federation_formed_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_spaceport_engaged_05"
+	file = "vo/custodii-advisor/advisor_notification_alien_spaceport_engaged_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_spaceport_engaged_06"
+	file = "vo/custodii-advisor/advisor_notification_alien_spaceport_engaged_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_spaceport_engaged_07"
+	file = "vo/custodii-advisor/advisor_notification_alien_spaceport_engaged_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_spaceport_engaged_08"
+	file = "vo/custodii-advisor/advisor_notification_alien_spaceport_engaged_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_spaceport_engaged_09"
+	file = "vo/custodii-advisor/advisor_notification_alien_spaceport_engaged_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_spaceport_engaged_10"
+	file = "vo/custodii-advisor/advisor_notification_alien_spaceport_engaged_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_vessel_encountered_03"
+	file = "vo/custodii-advisor/advisor_notification_alien_vessel_encountered_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_vessel_encountered_04"
+	file = "vo/custodii-advisor/advisor_notification_alien_vessel_encountered_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_vessel_encountered_05"
+	file = "vo/custodii-advisor/advisor_notification_alien_vessel_encountered_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_vessel_encountered_06"
+	file = "vo/custodii-advisor/advisor_notification_alien_vessel_encountered_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_vessel_encountered_07"
+	file = "vo/custodii-advisor/advisor_notification_alien_vessel_encountered_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_vessel_encountered_08"
+	file = "vo/custodii-advisor/advisor_notification_alien_vessel_encountered_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_vessel_encountered_09"
+	file = "vo/custodii-advisor/advisor_notification_alien_vessel_encountered_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_alien_vessel_encountered_10"
+	file = "vo/custodii-advisor/advisor_notification_alien_vessel_encountered_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_building_ruined_03"
+	file = "vo/custodii-advisor/advisor_notification_building_ruined_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_building_ruined_04"
+	file = "vo/custodii-advisor/advisor_notification_building_ruined_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_building_ruined_05"
+	file = "vo/custodii-advisor/advisor_notification_building_ruined_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_building_ruined_06"
+	file = "vo/custodii-advisor/advisor_notification_building_ruined_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_building_ruined_07"
+	file = "vo/custodii-advisor/advisor_notification_building_ruined_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_building_ruined_08"
+	file = "vo/custodii-advisor/advisor_notification_building_ruined_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_building_ruined_09"
+	file = "vo/custodii-advisor/advisor_notification_building_ruined_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_building_ruined_10"
+	file = "vo/custodii-advisor/advisor_notification_building_ruined_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_colonization_progress_06"
+	file = "vo/custodii-advisor/advisor_notification_colonization_progress_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_colonization_progress_07"
+	file = "vo/custodii-advisor/advisor_notification_colonization_progress_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_colonization_progress_08"
+	file = "vo/custodii-advisor/advisor_notification_colonization_progress_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_colonization_progress_09"
+	file = "vo/custodii-advisor/advisor_notification_colonization_progress_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_colonization_progress_10"
+	file = "vo/custodii-advisor/advisor_notification_colonization_progress_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_established_05"
+	file = "vo/custodii-advisor/advisor_notification_colony_established_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_established_06"
+	file = "vo/custodii-advisor/advisor_notification_colony_established_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_established_07"
+	file = "vo/custodii-advisor/advisor_notification_colony_established_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_established_08"
+	file = "vo/custodii-advisor/advisor_notification_colony_established_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_established_09"
+	file = "vo/custodii-advisor/advisor_notification_colony_established_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_established_10"
+	file = "vo/custodii-advisor/advisor_notification_colony_established_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_destroyed_04"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_destroyed_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_destroyed_05"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_destroyed_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_destroyed_06"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_destroyed_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_destroyed_07"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_destroyed_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_destroyed_08"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_destroyed_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_destroyed_09"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_destroyed_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_destroyed_10"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_destroyed_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_under_attack_03"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_under_attack_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_under_attack_04"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_under_attack_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_under_attack_05"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_under_attack_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_under_attack_06"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_under_attack_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_under_attack_07"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_under_attack_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_under_attack_08"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_under_attack_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_under_attack_09"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_under_attack_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_colony_ship_under_attack_10"
+	file = "vo/custodii-advisor/advisor_notification_colony_ship_under_attack_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_complete_03"
+	file = "vo/custodii-advisor/advisor_notification_construction_complete_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_complete_04"
+	file = "vo/custodii-advisor/advisor_notification_construction_complete_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_complete_05"
+	file = "vo/custodii-advisor/advisor_notification_construction_complete_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_complete_06"
+	file = "vo/custodii-advisor/advisor_notification_construction_complete_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_complete_07"
+	file = "vo/custodii-advisor/advisor_notification_construction_complete_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_complete_08"
+	file = "vo/custodii-advisor/advisor_notification_construction_complete_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_complete_09"
+	file = "vo/custodii-advisor/advisor_notification_construction_complete_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_complete_10"
+	file = "vo/custodii-advisor/advisor_notification_construction_complete_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_destroyed_03"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_destroyed_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_destroyed_04"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_destroyed_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_destroyed_05"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_destroyed_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_destroyed_06"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_destroyed_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_destroyed_07"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_destroyed_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_destroyed_08"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_destroyed_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_destroyed_09"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_destroyed_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_destroyed_10"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_destroyed_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_under_attack_03"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_under_attack_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_under_attack_04"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_under_attack_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_under_attack_05"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_under_attack_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_under_attack_06"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_under_attack_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_under_attack_07"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_under_attack_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_under_attack_08"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_under_attack_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_under_attack_09"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_under_attack_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_construction_ship_under_attack_10"
+	file = "vo/custodii-advisor/advisor_notification_construction_ship_under_attack_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_debris_analysed_05"
+	file = "vo/custodii-advisor/advisor_notification_debris_analysed_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_debris_analysed_06"
+	file = "vo/custodii-advisor/advisor_notification_debris_analysed_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_debris_analysed_07"
+	file = "vo/custodii-advisor/advisor_notification_debris_analysed_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_debris_analysed_08"
+	file = "vo/custodii-advisor/advisor_notification_debris_analysed_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_debris_analysed_09"
+	file = "vo/custodii-advisor/advisor_notification_debris_analysed_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_debris_analysed_10"
+	file = "vo/custodii-advisor/advisor_notification_debris_analysed_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_discovery_detected_05"
+	file = "vo/custodii-advisor/advisor_notification_discovery_detected_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_discovery_detected_06"
+	file = "vo/custodii-advisor/advisor_notification_discovery_detected_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_discovery_detected_07"
+	file = "vo/custodii-advisor/advisor_notification_discovery_detected_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_discovery_detected_08"
+	file = "vo/custodii-advisor/advisor_notification_discovery_detected_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_discovery_detected_09"
+	file = "vo/custodii-advisor/advisor_notification_discovery_detected_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_discovery_detected_10"
+	file = "vo/custodii-advisor/advisor_notification_discovery_detected_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_invasion_defeated_03"
+	file = "vo/custodii-advisor/advisor_notification_enemy_invasion_defeated_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_invasion_defeated_04"
+	file = "vo/custodii-advisor/advisor_notification_enemy_invasion_defeated_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_invasion_defeated_05"
+	file = "vo/custodii-advisor/advisor_notification_enemy_invasion_defeated_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_invasion_defeated_06"
+	file = "vo/custodii-advisor/advisor_notification_enemy_invasion_defeated_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_invasion_defeated_07"
+	file = "vo/custodii-advisor/advisor_notification_enemy_invasion_defeated_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_invasion_defeated_08"
+	file = "vo/custodii-advisor/advisor_notification_enemy_invasion_defeated_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_invasion_defeated_09"
+	file = "vo/custodii-advisor/advisor_notification_enemy_invasion_defeated_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_invasion_defeated_10"
+	file = "vo/custodii-advisor/advisor_notification_enemy_invasion_defeated_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_troops_landing_04"
+	file = "vo/custodii-advisor/advisor_notification_enemy_troops_landing_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_troops_landing_05"
+	file = "vo/custodii-advisor/advisor_notification_enemy_troops_landing_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_troops_landing_06"
+	file = "vo/custodii-advisor/advisor_notification_enemy_troops_landing_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_troops_landing_07"
+	file = "vo/custodii-advisor/advisor_notification_enemy_troops_landing_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_troops_landing_08"
+	file = "vo/custodii-advisor/advisor_notification_enemy_troops_landing_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_troops_landing_09"
+	file = "vo/custodii-advisor/advisor_notification_enemy_troops_landing_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_enemy_troops_landing_10"
+	file = "vo/custodii-advisor/advisor_notification_enemy_troops_landing_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_evade_hostile_fleet_03"
+	file = "vo/custodii-advisor/advisor_notification_evade_hostile_fleet_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_evade_hostile_fleet_04"
+	file = "vo/custodii-advisor/advisor_notification_evade_hostile_fleet_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_evade_hostile_fleet_05"
+	file = "vo/custodii-advisor/advisor_notification_evade_hostile_fleet_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_evade_hostile_fleet_06"
+	file = "vo/custodii-advisor/advisor_notification_evade_hostile_fleet_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_evade_hostile_fleet_07"
+	file = "vo/custodii-advisor/advisor_notification_evade_hostile_fleet_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_evade_hostile_fleet_08"
+	file = "vo/custodii-advisor/advisor_notification_evade_hostile_fleet_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_evade_hostile_fleet_09"
+	file = "vo/custodii-advisor/advisor_notification_evade_hostile_fleet_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_evade_hostile_fleet_10"
+	file = "vo/custodii-advisor/advisor_notification_evade_hostile_fleet_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_federation_formed_05"
+	file = "vo/custodii-advisor/advisor_notification_federation_formed_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_federation_formed_06"
+	file = "vo/custodii-advisor/advisor_notification_federation_formed_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_federation_formed_07"
+	file = "vo/custodii-advisor/advisor_notification_federation_formed_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_federation_formed_08"
+	file = "vo/custodii-advisor/advisor_notification_federation_formed_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_federation_formed_09"
+	file = "vo/custodii-advisor/advisor_notification_federation_formed_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_federation_formed_10"
+	file = "vo/custodii-advisor/advisor_notification_federation_formed_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_fleet_destroyed_03"
+	file = "vo/custodii-advisor/advisor_notification_fleet_destroyed_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_fleet_destroyed_04"
+	file = "vo/custodii-advisor/advisor_notification_fleet_destroyed_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_fleet_destroyed_05"
+	file = "vo/custodii-advisor/advisor_notification_fleet_destroyed_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_fleet_destroyed_06"
+	file = "vo/custodii-advisor/advisor_notification_fleet_destroyed_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_fleet_destroyed_07"
+	file = "vo/custodii-advisor/advisor_notification_fleet_destroyed_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_fleet_destroyed_08"
+	file = "vo/custodii-advisor/advisor_notification_fleet_destroyed_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_fleet_destroyed_09"
+	file = "vo/custodii-advisor/advisor_notification_fleet_destroyed_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_fleet_destroyed_10"
+	file = "vo/custodii-advisor/advisor_notification_fleet_destroyed_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_frontier_outpost_lost_03"
+	file = "vo/custodii-advisor/advisor_notification_frontier_outpost_lost_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_frontier_outpost_lost_04"
+	file = "vo/custodii-advisor/advisor_notification_frontier_outpost_lost_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_frontier_outpost_lost_05"
+	file = "vo/custodii-advisor/advisor_notification_frontier_outpost_lost_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_frontier_outpost_lost_06"
+	file = "vo/custodii-advisor/advisor_notification_frontier_outpost_lost_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_frontier_outpost_lost_07"
+	file = "vo/custodii-advisor/advisor_notification_frontier_outpost_lost_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_frontier_outpost_lost_08"
+	file = "vo/custodii-advisor/advisor_notification_frontier_outpost_lost_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_frontier_outpost_lost_09"
+	file = "vo/custodii-advisor/advisor_notification_frontier_outpost_lost_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_frontier_outpost_lost_10"
+	file = "vo/custodii-advisor/advisor_notification_frontier_outpost_lost_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_generic_war_declare_05"
+	file = "vo/custodii-advisor/advisor_notification_generic_war_declare_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_generic_war_declare_06"
+	file = "vo/custodii-advisor/advisor_notification_generic_war_declare_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_generic_war_declare_07"
+	file = "vo/custodii-advisor/advisor_notification_generic_war_declare_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_generic_war_declare_08"
+	file = "vo/custodii-advisor/advisor_notification_generic_war_declare_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_generic_war_declare_09"
+	file = "vo/custodii-advisor/advisor_notification_generic_war_declare_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_generic_war_declare_10"
+	file = "vo/custodii-advisor/advisor_notification_generic_war_declare_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_detected_03"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_detected_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_detected_04"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_detected_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_detected_05"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_detected_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_detected_06"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_detected_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_detected_07"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_detected_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_detected_08"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_detected_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_detected_09"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_detected_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_detected_10"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_detected_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_engaged_04"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_engaged_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_engaged_05"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_engaged_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_engaged_06"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_engaged_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_engaged_07"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_engaged_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_engaged_08"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_engaged_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_engaged_09"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_engaged_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_fleet_engaged_10"
+	file = "vo/custodii-advisor/advisor_notification_hostile_fleet_engaged_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_station_engaged_04"
+	file = "vo/custodii-advisor/advisor_notification_hostile_station_engaged_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_station_engaged_05"
+	file = "vo/custodii-advisor/advisor_notification_hostile_station_engaged_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_station_engaged_06"
+	file = "vo/custodii-advisor/advisor_notification_hostile_station_engaged_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_station_engaged_07"
+	file = "vo/custodii-advisor/advisor_notification_hostile_station_engaged_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_station_engaged_08"
+	file = "vo/custodii-advisor/advisor_notification_hostile_station_engaged_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_station_engaged_09"
+	file = "vo/custodii-advisor/advisor_notification_hostile_station_engaged_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_hostile_station_engaged_10"
+	file = "vo/custodii-advisor/advisor_notification_hostile_station_engaged_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_incoming_transmission_05"
+	file = "vo/custodii-advisor/advisor_notification_incoming_transmission_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_incoming_transmission_06"
+	file = "vo/custodii-advisor/advisor_notification_incoming_transmission_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_incoming_transmission_07"
+	file = "vo/custodii-advisor/advisor_notification_incoming_transmission_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_incoming_transmission_08"
+	file = "vo/custodii-advisor/advisor_notification_incoming_transmission_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_incoming_transmission_09"
+	file = "vo/custodii-advisor/advisor_notification_incoming_transmission_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_incoming_transmission_10"
+	file = "vo/custodii-advisor/advisor_notification_incoming_transmission_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_enemy_won_04"
+	file = "vo/custodii-advisor/advisor_notification_invasion_enemy_won_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_enemy_won_05"
+	file = "vo/custodii-advisor/advisor_notification_invasion_enemy_won_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_enemy_won_06"
+	file = "vo/custodii-advisor/advisor_notification_invasion_enemy_won_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_enemy_won_07"
+	file = "vo/custodii-advisor/advisor_notification_invasion_enemy_won_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_enemy_won_08"
+	file = "vo/custodii-advisor/advisor_notification_invasion_enemy_won_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_enemy_won_09"
+	file = "vo/custodii-advisor/advisor_notification_invasion_enemy_won_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_enemy_won_10"
+	file = "vo/custodii-advisor/advisor_notification_invasion_enemy_won_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_failed_04"
+	file = "vo/custodii-advisor/advisor_notification_invasion_failed_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_failed_05"
+	file = "vo/custodii-advisor/advisor_notification_invasion_failed_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_failed_06"
+	file = "vo/custodii-advisor/advisor_notification_invasion_failed_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_failed_07"
+	file = "vo/custodii-advisor/advisor_notification_invasion_failed_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_failed_08"
+	file = "vo/custodii-advisor/advisor_notification_invasion_failed_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_failed_09"
+	file = "vo/custodii-advisor/advisor_notification_invasion_failed_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_failed_10"
+	file = "vo/custodii-advisor/advisor_notification_invasion_failed_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_progress_03"
+	file = "vo/custodii-advisor/advisor_notification_invasion_progress_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_progress_04"
+	file = "vo/custodii-advisor/advisor_notification_invasion_progress_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_progress_05"
+	file = "vo/custodii-advisor/advisor_notification_invasion_progress_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_progress_06"
+	file = "vo/custodii-advisor/advisor_notification_invasion_progress_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_progress_07"
+	file = "vo/custodii-advisor/advisor_notification_invasion_progress_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_progress_08"
+	file = "vo/custodii-advisor/advisor_notification_invasion_progress_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_progress_09"
+	file = "vo/custodii-advisor/advisor_notification_invasion_progress_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_progress_10"
+	file = "vo/custodii-advisor/advisor_notification_invasion_progress_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_success_04"
+	file = "vo/custodii-advisor/advisor_notification_invasion_success_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_success_05"
+	file = "vo/custodii-advisor/advisor_notification_invasion_success_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_success_06"
+	file = "vo/custodii-advisor/advisor_notification_invasion_success_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_success_07"
+	file = "vo/custodii-advisor/advisor_notification_invasion_success_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_success_08"
+	file = "vo/custodii-advisor/advisor_notification_invasion_success_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_success_09"
+	file = "vo/custodii-advisor/advisor_notification_invasion_success_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_invasion_success_10"
+	file = "vo/custodii-advisor/advisor_notification_invasion_success_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_military_station_lost_03"
+	file = "vo/custodii-advisor/advisor_notification_military_station_lost_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_military_station_lost_04"
+	file = "vo/custodii-advisor/advisor_notification_military_station_lost_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_military_station_lost_05"
+	file = "vo/custodii-advisor/advisor_notification_military_station_lost_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_military_station_lost_06"
+	file = "vo/custodii-advisor/advisor_notification_military_station_lost_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_military_station_lost_07"
+	file = "vo/custodii-advisor/advisor_notification_military_station_lost_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_military_station_lost_08"
+	file = "vo/custodii-advisor/advisor_notification_military_station_lost_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_military_station_lost_09"
+	file = "vo/custodii-advisor/advisor_notification_military_station_lost_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_military_station_lost_10"
+	file = "vo/custodii-advisor/advisor_notification_military_station_lost_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_mining_station_lost_03"
+	file = "vo/custodii-advisor/advisor_notification_mining_station_lost_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_mining_station_lost_04"
+	file = "vo/custodii-advisor/advisor_notification_mining_station_lost_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_mining_station_lost_05"
+	file = "vo/custodii-advisor/advisor_notification_mining_station_lost_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_mining_station_lost_06"
+	file = "vo/custodii-advisor/advisor_notification_mining_station_lost_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_mining_station_lost_07"
+	file = "vo/custodii-advisor/advisor_notification_mining_station_lost_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_mining_station_lost_08"
+	file = "vo/custodii-advisor/advisor_notification_mining_station_lost_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_mining_station_lost_09"
+	file = "vo/custodii-advisor/advisor_notification_mining_station_lost_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_mining_station_lost_10"
+	file = "vo/custodii-advisor/advisor_notification_mining_station_lost_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_observation_post_lost_03"
+	file = "vo/custodii-advisor/advisor_notification_observation_post_lost_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_observation_post_lost_04"
+	file = "vo/custodii-advisor/advisor_notification_observation_post_lost_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_observation_post_lost_05"
+	file = "vo/custodii-advisor/advisor_notification_observation_post_lost_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_observation_post_lost_06"
+	file = "vo/custodii-advisor/advisor_notification_observation_post_lost_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_observation_post_lost_07"
+	file = "vo/custodii-advisor/advisor_notification_observation_post_lost_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_observation_post_lost_08"
+	file = "vo/custodii-advisor/advisor_notification_observation_post_lost_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_observation_post_lost_09"
+	file = "vo/custodii-advisor/advisor_notification_observation_post_lost_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_observation_post_lost_10"
+	file = "vo/custodii-advisor/advisor_notification_observation_post_lost_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_outpost_station_lost_02"
+	file = "vo/custodii-advisor/advisor_notification_outpost_station_lost_02.wav"
+}
+
+sound = {
+	name = "advisor_notification_outpost_station_lost_03"
+	file = "vo/custodii-advisor/advisor_notification_outpost_station_lost_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_outpost_station_lost_04"
+	file = "vo/custodii-advisor/advisor_notification_outpost_station_lost_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_outpost_station_lost_05"
+	file = "vo/custodii-advisor/advisor_notification_outpost_station_lost_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_outpost_station_lost_06"
+	file = "vo/custodii-advisor/advisor_notification_outpost_station_lost_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_outpost_station_lost_07"
+	file = "vo/custodii-advisor/advisor_notification_outpost_station_lost_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_outpost_station_lost_08"
+	file = "vo/custodii-advisor/advisor_notification_outpost_station_lost_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_outpost_station_lost_09"
+	file = "vo/custodii-advisor/advisor_notification_outpost_station_lost_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_outpost_station_lost_10"
+	file = "vo/custodii-advisor/advisor_notification_outpost_station_lost_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_planet_in_revolt_05"
+	file = "vo/custodii-advisor/advisor_notification_planet_in_revolt_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_planet_in_revolt_06"
+	file = "vo/custodii-advisor/advisor_notification_planet_in_revolt_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_planet_in_revolt_07"
+	file = "vo/custodii-advisor/advisor_notification_planet_in_revolt_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_planet_in_revolt_08"
+	file = "vo/custodii-advisor/advisor_notification_planet_in_revolt_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_planet_in_revolt_09"
+	file = "vo/custodii-advisor/advisor_notification_planet_in_revolt_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_planet_in_revolt_10"
+	file = "vo/custodii-advisor/advisor_notification_planet_in_revolt_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_pre_sapient_uplifted_05"
+	file = "vo/custodii-advisor/advisor_notification_pre_sapient_uplifted_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_pre_sapient_uplifted_06"
+	file = "vo/custodii-advisor/advisor_notification_pre_sapient_uplifted_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_pre_sapient_uplifted_07"
+	file = "vo/custodii-advisor/advisor_notification_pre_sapient_uplifted_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_pre_sapient_uplifted_08"
+	file = "vo/custodii-advisor/advisor_notification_pre_sapient_uplifted_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_pre_sapient_uplifted_09"
+	file = "vo/custodii-advisor/advisor_notification_pre_sapient_uplifted_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_pre_sapient_uplifted_10"
+	file = "vo/custodii-advisor/advisor_notification_pre_sapient_uplifted_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_primitive_enlighted_05"
+	file = "vo/custodii-advisor/advisor_notification_primitive_enlighted_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_primitive_enlighted_06"
+	file = "vo/custodii-advisor/advisor_notification_primitive_enlighted_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_primitive_enlighted_07"
+	file = "vo/custodii-advisor/advisor_notification_primitive_enlighted_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_primitive_enlighted_08"
+	file = "vo/custodii-advisor/advisor_notification_primitive_enlighted_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_primitive_enlighted_09"
+	file = "vo/custodii-advisor/advisor_notification_primitive_enlighted_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_primitive_enlighted_10"
+	file = "vo/custodii-advisor/advisor_notification_primitive_enlighted_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_research_complete_07"
+	file = "vo/custodii-advisor/advisor_notification_research_complete_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_research_complete_08"
+	file = "vo/custodii-advisor/advisor_notification_research_complete_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_research_complete_09"
+	file = "vo/custodii-advisor/advisor_notification_research_complete_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_research_complete_10"
+	file = "vo/custodii-advisor/advisor_notification_research_complete_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_research_station_lost_03"
+	file = "vo/custodii-advisor/advisor_notification_research_station_lost_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_research_station_lost_04"
+	file = "vo/custodii-advisor/advisor_notification_research_station_lost_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_research_station_lost_05"
+	file = "vo/custodii-advisor/advisor_notification_research_station_lost_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_research_station_lost_06"
+	file = "vo/custodii-advisor/advisor_notification_research_station_lost_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_research_station_lost_07"
+	file = "vo/custodii-advisor/advisor_notification_research_station_lost_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_research_station_lost_08"
+	file = "vo/custodii-advisor/advisor_notification_research_station_lost_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_research_station_lost_09"
+	file = "vo/custodii-advisor/advisor_notification_research_station_lost_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_research_station_lost_10"
+	file = "vo/custodii-advisor/advisor_notification_research_station_lost_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_destroyed_05"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_destroyed_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_destroyed_06"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_destroyed_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_destroyed_07"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_destroyed_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_destroyed_08"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_destroyed_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_destroyed_09"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_destroyed_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_destroyed_10"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_destroyed_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_under_attack_04"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_under_attack_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_under_attack_05"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_under_attack_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_under_attack_06"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_under_attack_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_under_attack_07"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_under_attack_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_under_attack_08"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_under_attack_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_under_attack_09"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_under_attack_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_science_ship_under_attack_10"
+	file = "vo/custodii-advisor/advisor_notification_science_ship_under_attack_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_ships_upgraded_04"
+	file = "vo/custodii-advisor/advisor_notification_ships_upgraded_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_ships_upgraded_05"
+	file = "vo/custodii-advisor/advisor_notification_ships_upgraded_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_ships_upgraded_06"
+	file = "vo/custodii-advisor/advisor_notification_ships_upgraded_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_ships_upgraded_07"
+	file = "vo/custodii-advisor/advisor_notification_ships_upgraded_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_ships_upgraded_08"
+	file = "vo/custodii-advisor/advisor_notification_ships_upgraded_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_ships_upgraded_09"
+	file = "vo/custodii-advisor/advisor_notification_ships_upgraded_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_ships_upgraded_10"
+	file = "vo/custodii-advisor/advisor_notification_ships_upgraded_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_situation_log_03"
+	file = "vo/custodii-advisor/advisor_notification_situation_log_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_situation_log_04"
+	file = "vo/custodii-advisor/advisor_notification_situation_log_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_situation_log_05"
+	file = "vo/custodii-advisor/advisor_notification_situation_log_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_situation_log_06"
+	file = "vo/custodii-advisor/advisor_notification_situation_log_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_situation_log_07"
+	file = "vo/custodii-advisor/advisor_notification_situation_log_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_situation_log_08"
+	file = "vo/custodii-advisor/advisor_notification_situation_log_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_situation_log_09"
+	file = "vo/custodii-advisor/advisor_notification_situation_log_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_situation_log_10"
+	file = "vo/custodii-advisor/advisor_notification_situation_log_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceborne_encounter_08"
+	file = "vo/custodii-advisor/advisor_notification_spaceborne_encounter_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceborne_encounter_09"
+	file = "vo/custodii-advisor/advisor_notification_spaceborne_encounter_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceborne_encounter_10"
+	file = "vo/custodii-advisor/advisor_notification_spaceborne_encounter_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_spacebourne_encounter_01"
+	file = "vo/custodii-advisor/advisor_notification_spacebourne_encounter_01.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_lost_03"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_lost_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_lost_04"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_lost_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_lost_05"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_lost_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_lost_06"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_lost_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_lost_07"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_lost_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_lost_08"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_lost_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_lost_09"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_lost_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_lost_10"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_lost_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_under_attack_03"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_under_attack_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_under_attack_04"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_under_attack_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_under_attack_05"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_under_attack_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_under_attack_06"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_under_attack_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_under_attack_07"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_under_attack_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_under_attack_08"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_under_attack_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_under_attack_09"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_under_attack_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_spaceport_under_attack_10"
+	file = "vo/custodii-advisor/advisor_notification_spaceport_under_attack_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_special_project_complete_03"
+	file = "vo/custodii-advisor/advisor_notification_special_project_complete_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_special_project_complete_04"
+	file = "vo/custodii-advisor/advisor_notification_special_project_complete_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_special_project_complete_05"
+	file = "vo/custodii-advisor/advisor_notification_special_project_complete_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_special_project_complete_06"
+	file = "vo/custodii-advisor/advisor_notification_special_project_complete_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_special_project_complete_07"
+	file = "vo/custodii-advisor/advisor_notification_special_project_complete_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_special_project_complete_08"
+	file = "vo/custodii-advisor/advisor_notification_special_project_complete_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_special_project_complete_09"
+	file = "vo/custodii-advisor/advisor_notification_special_project_complete_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_special_project_complete_10"
+	file = "vo/custodii-advisor/advisor_notification_special_project_complete_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_species_modified_04"
+	file = "vo/custodii-advisor/advisor_notification_species_modified_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_species_modified_05"
+	file = "vo/custodii-advisor/advisor_notification_species_modified_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_species_modified_06"
+	file = "vo/custodii-advisor/advisor_notification_species_modified_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_species_modified_07"
+	file = "vo/custodii-advisor/advisor_notification_species_modified_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_species_modified_08"
+	file = "vo/custodii-advisor/advisor_notification_species_modified_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_species_modified_09"
+	file = "vo/custodii-advisor/advisor_notification_species_modified_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_species_modified_10"
+	file = "vo/custodii-advisor/advisor_notification_species_modified_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_station_under_attack_03"
+	file = "vo/custodii-advisor/advisor_notification_station_under_attack_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_station_under_attack_04"
+	file = "vo/custodii-advisor/advisor_notification_station_under_attack_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_station_under_attack_05"
+	file = "vo/custodii-advisor/advisor_notification_station_under_attack_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_station_under_attack_06"
+	file = "vo/custodii-advisor/advisor_notification_station_under_attack_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_station_under_attack_07"
+	file = "vo/custodii-advisor/advisor_notification_station_under_attack_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_station_under_attack_08"
+	file = "vo/custodii-advisor/advisor_notification_station_under_attack_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_station_under_attack_09"
+	file = "vo/custodii-advisor/advisor_notification_station_under_attack_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_station_under_attack_10"
+	file = "vo/custodii-advisor/advisor_notification_station_under_attack_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_system_survey_complete_04"
+	file = "vo/custodii-advisor/advisor_notification_system_survey_complete_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_system_survey_complete_05"
+	file = "vo/custodii-advisor/advisor_notification_system_survey_complete_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_system_survey_complete_06"
+	file = "vo/custodii-advisor/advisor_notification_system_survey_complete_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_system_survey_complete_07"
+	file = "vo/custodii-advisor/advisor_notification_system_survey_complete_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_system_survey_complete_08"
+	file = "vo/custodii-advisor/advisor_notification_system_survey_complete_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_system_survey_complete_09"
+	file = "vo/custodii-advisor/advisor_notification_system_survey_complete_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_system_survey_complete_10"
+	file = "vo/custodii-advisor/advisor_notification_system_survey_complete_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_tile_blocker_clear_03"
+	file = "vo/custodii-advisor/advisor_notification_tile_blocker_clear_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_tile_blocker_clear_04"
+	file = "vo/custodii-advisor/advisor_notification_tile_blocker_clear_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_tile_blocker_clear_05"
+	file = "vo/custodii-advisor/advisor_notification_tile_blocker_clear_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_tile_blocker_clear_06"
+	file = "vo/custodii-advisor/advisor_notification_tile_blocker_clear_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_tile_blocker_clear_07"
+	file = "vo/custodii-advisor/advisor_notification_tile_blocker_clear_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_tile_blocker_clear_08"
+	file = "vo/custodii-advisor/advisor_notification_tile_blocker_clear_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_tile_blocker_clear_09"
+	file = "vo/custodii-advisor/advisor_notification_tile_blocker_clear_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_tile_blocker_clear_10"
+	file = "vo/custodii-advisor/advisor_notification_tile_blocker_clear_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_unidentified_object_04"
+	file = "vo/custodii-advisor/advisor_notification_unidentified_object_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_unidentified_object_05"
+	file = "vo/custodii-advisor/advisor_notification_unidentified_object_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_unidentified_object_06"
+	file = "vo/custodii-advisor/advisor_notification_unidentified_object_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_unidentified_object_07"
+	file = "vo/custodii-advisor/advisor_notification_unidentified_object_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_unidentified_object_08"
+	file = "vo/custodii-advisor/advisor_notification_unidentified_object_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_unidentified_object_09"
+	file = "vo/custodii-advisor/advisor_notification_unidentified_object_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_unidentified_object_10"
+	file = "vo/custodii-advisor/advisor_notification_unidentified_object_10.wav"
+}
+
+sound = {
+	name = "advisor_notification_wormhole_station_lost_03"
+	file = "vo/custodii-advisor/advisor_notification_wormhole_station_lost_03.wav"
+}
+
+sound = {
+	name = "advisor_notification_wormhole_station_lost_04"
+	file = "vo/custodii-advisor/advisor_notification_wormhole_station_lost_04.wav"
+}
+
+sound = {
+	name = "advisor_notification_wormhole_station_lost_05"
+	file = "vo/custodii-advisor/advisor_notification_wormhole_station_lost_05.wav"
+}
+
+sound = {
+	name = "advisor_notification_wormhole_station_lost_06"
+	file = "vo/custodii-advisor/advisor_notification_wormhole_station_lost_06.wav"
+}
+
+sound = {
+	name = "advisor_notification_wormhole_station_lost_07"
+	file = "vo/custodii-advisor/advisor_notification_wormhole_station_lost_07.wav"
+}
+
+sound = {
+	name = "advisor_notification_wormhole_station_lost_08"
+	file = "vo/custodii-advisor/advisor_notification_wormhole_station_lost_08.wav"
+}
+
+sound = {
+	name = "advisor_notification_wormhole_station_lost_09"
+	file = "vo/custodii-advisor/advisor_notification_wormhole_station_lost_09.wav"
+}
+
+sound = {
+	name = "advisor_notification_wormhole_station_lost_10"
+	file = "vo/custodii-advisor/advisor_notification_wormhole_station_lost_10.wav"
+}
+
+sound = {
+	name = "advisor_sample_vo_05"
+	file = "vo/custodii-advisor/advisor_sample_vo_05.wav"
+}
+
+sound = {
+	name = "advisor_sample_vo_06"
+	file = "vo/custodii-advisor/advisor_sample_vo_06.wav"
+}
+
+sound = {
+	name = "advisor_sample_vo_07"
+	file = "vo/custodii-advisor/advisor_sample_vo_07.wav"
+}
+
+sound = {
+	name = "advisor_sample_vo_08"
+	file = "vo/custodii-advisor/advisor_sample_vo_08.wav"
+}
+
+sound = {
+	name = "advisor_sample_vo_09"
+	file = "vo/custodii-advisor/advisor_sample_vo_09.wav"
+}
+
+sound = {
+	name = "advisor_sample_vo_10"
+	file = "vo/custodii-advisor/advisor_sample_vo_10.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_available_02"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_available_02.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_available_03"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_available_03.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_available_04"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_available_04.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_available_05"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_available_05.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_available_06"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_available_06.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_available_07"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_available_07.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_available_08"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_available_08.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_available_09"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_available_09.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_available_10"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_available_10.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_ready_02"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_ready_02.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_ready_03"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_ready_03.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_ready_04"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_ready_04.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_ready_05"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_ready_05.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_ready_06"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_ready_06.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_ready_07"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_ready_07.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_ready_08"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_ready_08.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_ready_09"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_ready_09.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_agenda_ready_10"
+	file = "vo/custodii-advisor/advisor_tutorial_agenda_ready_10.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_legendary_leader_02"
+	file = "vo/custodii-advisor/advisor_tutorial_legendary_leader_02.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_legendary_leader_03"
+	file = "vo/custodii-advisor/advisor_tutorial_legendary_leader_03.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_legendary_leader_04"
+	file = "vo/custodii-advisor/advisor_tutorial_legendary_leader_04.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_legendary_leader_05"
+	file = "vo/custodii-advisor/advisor_tutorial_legendary_leader_05.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_legendary_leader_06"
+	file = "vo/custodii-advisor/advisor_tutorial_legendary_leader_06.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_legendary_leader_07"
+	file = "vo/custodii-advisor/advisor_tutorial_legendary_leader_07.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_legendary_leader_08"
+	file = "vo/custodii-advisor/advisor_tutorial_legendary_leader_08.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_legendary_leader_09"
+	file = "vo/custodii-advisor/advisor_tutorial_legendary_leader_09.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_legendary_leader_10"
+	file = "vo/custodii-advisor/advisor_tutorial_legendary_leader_10.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_planetary_governor_02"
+	file = "vo/custodii-advisor/advisor_tutorial_planetary_governor_02.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_planetary_governor_03"
+	file = "vo/custodii-advisor/advisor_tutorial_planetary_governor_03.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_planetary_governor_04"
+	file = "vo/custodii-advisor/advisor_tutorial_planetary_governor_04.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_planetary_governor_05"
+	file = "vo/custodii-advisor/advisor_tutorial_planetary_governor_05.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_planetary_governor_06"
+	file = "vo/custodii-advisor/advisor_tutorial_planetary_governor_06.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_planetary_governor_07"
+	file = "vo/custodii-advisor/advisor_tutorial_planetary_governor_07.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_planetary_governor_08"
+	file = "vo/custodii-advisor/advisor_tutorial_planetary_governor_08.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_planetary_governor_09"
+	file = "vo/custodii-advisor/advisor_tutorial_planetary_governor_09.wav"
+}
+
+sound = {
+	name = "advisor_tutorial_planetary_governor_10"
+	file = "vo/custodii-advisor/advisor_tutorial_planetary_governor_10.wav"
+}
